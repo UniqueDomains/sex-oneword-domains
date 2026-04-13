@@ -66,7 +66,7 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | loop.sex    | available | $154.98   | —             | 72             | 77     | 4      | namecheap        |
 | name.sex    | resell    | —         | —             | 82             | 76     | 4      | Spaceship, Inc.  |
-| design.sex  | premium   | $465      | $465          | 108            | 50     | 6      | name.com         |
+| design.sex  | premium   | $465      | $465          | 108            | 49     | 6      | name.com         |
 | http.sex    | available | $154.98   | —             | 80             | 72     | 4      | namecheap        |
 | enjoy.sex   | resell    | —         | —             | 88             | 66     | 5      | Dynadot Inc      |
 | social.sex  | premium   | $310      | —             | 78             | 48     | 6      | name.com         |
