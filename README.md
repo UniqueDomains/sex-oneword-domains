@@ -1,22 +1,22 @@
-# Available .SEX One-Word Domains (4,124)
+# Available .SEX One-Word Domains (8,682)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C124%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C124%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C682%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .sex one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .sex one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,682 domains** on the canonical page below.
 
-**Public extract:** 4,124 rows · **Live catalog:** 4,124 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,682 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/sex`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SEX one-word domain c
 
 ### Files
 
-- `sex.csv` — public CSV extract (4,124 rows)
-- `sex.json` — public JSON extract (4,124 rows)
+- `sex.csv` — public CSV extract (1,000 rows)
+- `sex.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| loop.sex    | available | $154.98   | —             | 72             | 77     | 4      | namecheap        |
-| name.sex    | resell    | —         | —             | 82             | 76     | 4      | Spaceship, Inc.  |
-| design.sex  | premium   | $465      | $465          | 108            | 49     | 6      | name.com         |
-| http.sex    | available | $154.98   | —             | 80             | 72     | 4      | namecheap        |
-| enjoy.sex   | resell    | —         | —             | 88             | 66     | 5      | Dynadot Inc      |
-| social.sex  | premium   | $310      | —             | 78             | 48     | 6      | name.com         |
-| outlook.sex | available | $154.98   | —             | 77             | 72     | 7      | namecheap        |
-| web.sex     | resell    | —         | —             | 72             | 61     | 3      | Name.com, Inc.   |
-| only.sex    | premium   | $620      | $620          | 110            | 46     | 4      | name.com         |
-| matt.sex    | available | $154.98   | —             | 72             | 71     | 4      | namecheap        |
-| cloud.sex   | resell    | —         | —             | 70             | 59     | 5      | Porkbun          |
-| yes.sex     | premium   | $310      | —             | 90             | 46     | 3      | name.com         |
-| lens.sex    | available | $154.98   | —             | 62             | 69     | 4      | namecheap        |
-| the.sex     | resell    | —         | —             | 88             | 58     | 3      | Name.com, Inc.   |
-| auto.sex    | premium   | $310      | —             | 68             | 45     | 4      | name.com         |
-| reset.sex   | available | $154.98   | —             | 70             | 68     | 5      | namecheap        |
-| local.sex   | resell    | —         | —             | 80             | 54     | 5      | GoDaddy.com, LLC |
-| contact.sex | premium   | $310      | —             | 84             | 43     | 7      | name.com         |
-| switch.sex  | available | $154.98   | —             | 70             | 68     | 6      | namecheap        |
-| shop.sex    | resell    | —         | —             | 73             | 54     | 4      | Name.com, Inc.   |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.sex       | available | $154.98   | —             | 76             | 69     | 8      | namecheap |
+| Books.sex         | premium   | $347.20   | $347.20       | 52             | 49     | 5      | namecheap |
+| regions.sex       | available | $154.98   | —             | 64             | 59     | 7      | namecheap |
+| stores.sex        | premium   | $310      | —             | 62             | 20     | 6      | name.com  |
+| keepthechange.sex | available | $154.98   | —             | 46             | 59     | 15     | namecheap |
+| views.sex         | premium   | $310      | —             | 62             | 18     | 5      | name.com  |
+| RGB.sex           | available | $154.98   | —             | 76             | 39     | 3      | namecheap |
+| Guys.sex          | premium   | $347.20   | $347.20       | 68             | 13     | 4      | namecheap |
+| emoji.sex         | available | $154.98   | —             | 88             | 37     | 5      | namecheap |
+| breasts.sex       | premium   | $310      | —             | 50             | 9      | 7      | name.com  |
+| ideas.sex         | available | $154.98   | —             | 62             | 37     | 5      | namecheap |
+| WhatsApp.sex      | premium   | —         | —             | 90             | 84     | 8      | —         |
+| homes.sex         | available | $154.98   | —             | 86             | 34     | 5      | namecheap |
+| Your.sex          | premium   | —         | —             | 68             | 45     | 4      | —         |
+| tickets.sex       | available | $154.98   | —             | 64             | 34     | 7      | namecheap |
+| CNN.sex           | premium   | —         | —             | 78             | 22     | 3      | —         |
+| invoice.sex       | available | $154.98   | —             | 72             | 33     | 8      | namecheap |
+| DJIA.sex          | premium   | —         | —             | 68             | 5      | 4      | —         |
+| Liam.sex          | available | $154.98   | —             | 81             | 32     | 4      | namecheap |
+| letsgo.sex        | available | $154.98   | —             | 57             | 31     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,124-row public sample | 4,124 live domains                               |
+| 1,000-row public sample | 8,682 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
