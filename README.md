@@ -65,7 +65,7 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | homes.sex         | available | $154.98   | —             | 86             | 34     | 5      | namecheap |
-| emoji.sex         | available | $154.98   | —             | 88             | 37     | 5      | namecheap |
+| emoji.sex         | available | $154.98   | —             | 88             | 38     | 5      | namecheap |
 | finals.sex        | available | $154.98   | —             | 80             | 7      | 6      | namecheap |
 | myson.sex         | available | $154.98   | —             | 80             | 5      | 6      | namecheap |
 | barup.sex         | available | $154.98   | —             | 82             | 2      | 6      | namecheap |
