@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sex one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,124 domains · **Median ask:** $164.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sex`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | myson.sex         | available | $154.98   | —             | 80             | 5      | 6      | namecheap |
 | barup.sex         | available | $154.98   | —             | 82             | 2      | 6      | namecheap |
 | forces.sex        | available | $154.98   | —             | 82             | 12     | 6      | namecheap |
-| getup.sex         | available | $154.98   | —             | 82             | 14     | 6      | namecheap |
+| getup.sex         | available | $154.98   | —             | 82             | 15     | 6      | namecheap |
 | Apples.sex        | available | $154.98   | —             | 90             | 16     | 6      | namecheap |
 | useit.sex         | available | $154.98   | —             | 94             | 7      | 6      | namecheap |
 | flexing.sex       | available | $154.98   | —             | 80             | 6      | 7      | namecheap |
@@ -81,7 +81,7 @@ print(df.head())
 | keepthechange.sex | available | $154.98   | —             | 46             | 59     | 15     | namecheap |
 | views.sex         | premium   | $310      | —             | 62             | 18     | 5      | name.com  |
 | Guys.sex          | premium   | $347.20   | $347.20       | 68             | 15     | 4      | namecheap |
-| ideas.sex         | available | $154.98   | —             | 62             | 37     | 5      | namecheap |
+| ideas.sex         | available | $154.98   | —             | 62             | 36     | 5      | namecheap |
 | breasts.sex       | premium   | $310      | —             | 50             | 9      | 7      | name.com  |
 | personals.sex     | premium   | $310      | —             | 47             | 8      | 9      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
