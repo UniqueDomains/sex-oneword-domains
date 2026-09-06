@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sex one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,046 domains · **Median ask:** $134.59 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/sex`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cut.sex      | available | $154.98   | —             | high           | low    | 3      | namecheap        |
-| tender.sex   | available | $154.98   | —             | high           | low    | 6      | namecheap        |
-| fond.sex     | available | $154.98   | —             | high           | low    | 4      | namecheap        |
-| reverse.sex  | available | $154.98   | —             | high           | low    | 7      | namecheap        |
-| tonic.sex    | available | $154.98   | —             | high           | low    | 5      | namecheap        |
-| negative.sex | available | $154.98   | —             | high           | low    | 8      | namecheap        |
-| hotshot.sex  | available | $154.98   | —             | high           | low    | 7      | namecheap        |
-| complex.sex  | available | $154.98   | —             | high           | low    | 7      | namecheap        |
-| easter.sex   | available | $154.98   | —             | high           | low    | 6      | namecheap        |
-| ate.sex      | available | $154.98   | —             | high           | low    | 3      | namecheap        |
-| gal.sex      | resell    | —         | —             | medium         | low    | 3      | Key-Systems GmbH |
-| auto.sex     | premium   | $310      | —             | medium         | medium | 4      | name.com         |
-| dick.sex     | resell    | —         | —             | medium         | low    | 4      | Name.com, Inc.   |
-| bush.sex     | premium   | $310      | —             | medium         | low    | 4      | name.com         |
-| fig.sex      | available | $154.98   | —             | medium         | low    | 3      | namecheap        |
-| name.sex     | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.  |
-| gift.sex     | premium   | $232.50   | —             | high           | low    | 4      | name.com         |
-| him.sex      | available | $154.98   | —             | high           | low    | 3      | namecheap        |
-| black.sex    | resell    | —         | —             | high           | medium | 5      | Name.com, Inc.   |
-| shoe.sex     | premium   | $310      | —             | medium         | low    | 4      | name.com         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ate.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| gal.sex    | resell    | —         | —             | medium         | low    | 3      | Key-Systems GmbH |
+| auto.sex   | premium   | $310      | —             | medium         | medium | 4      | name.com         |
+| cut.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| dick.sex   | resell    | —         | —             | medium         | low    | 4      | Name.com, Inc.   |
+| bush.sex   | premium   | $310      | —             | medium         | low    | 4      | name.com         |
+| fig.sex    | available | $154.98   | —             | medium         | low    | 3      | namecheap        |
+| name.sex   | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.  |
+| gift.sex   | premium   | $232.50   | —             | high           | low    | 4      | name.com         |
+| him.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| black.sex  | resell    | —         | —             | high           | medium | 5      | Name.com, Inc.   |
+| shoe.sex   | premium   | $310      | —             | medium         | low    | 4      | name.com         |
+| jan.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| local.sex  | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| show.sex   | premium   | $775      | —             | high           | low    | 4      | name.com         |
+| jot.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| verse.sex  | resell    | —         | —             | high           | low    | 5      | Porkbun          |
+| cheap.sex  | premium   | $310      | —             | high           | low    | 5      | name.com         |
+| lol.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| master.sex | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
