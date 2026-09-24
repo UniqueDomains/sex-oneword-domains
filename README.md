@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sex one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,352 domains · **Median ask:** $106.26 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/sex`
 **Best for:** founders, investors, studios
 
@@ -67,9 +67,9 @@ print(df.head())
 | ate.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | action.sex | resell    | $154.98   | —             | medium         | low    | 6      | namecheap        |
 | auto.sex   | premium   | $310      | —             | medium         | medium | 4      | name.com         |
-| cut.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
+| cut.sex    | available | $69.98    | $154.98       | low            | low    | 3      | namecheap        |
 | dick.sex   | resell    | —         | —             | medium         | low    | 4      | Name.com, Inc.   |
-| bush.sex   | premium   | $310      | —             | medium         | low    | 4      | name.com         |
+| bush.sex   | premium   | $322.40   | $322.40       | low            | low    | 4      | namecheap        |
 | fig.sex    | available | $154.98   | —             | medium         | low    | 3      | namecheap        |
 | name.sex   | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.  |
 | gift.sex   | premium   | $232.50   | —             | high           | low    | 4      | name.com         |
@@ -81,7 +81,7 @@ print(df.head())
 | show.sex   | premium   | $775      | —             | high           | low    | 4      | name.com         |
 | jot.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | verse.sex  | resell    | —         | —             | high           | low    | 5      | Porkbun          |
-| cheap.sex  | premium   | $310      | —             | high           | low    | 5      | name.com         |
+| cheap.sex  | premium   | $322.40   | $322.40       | low            | low    | 5      | namecheap        |
 | lol.sex    | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | master.sex | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
