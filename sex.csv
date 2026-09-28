@@ -10,20 +10,20 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6d600b5e-6291-4143-8836-ec164a99c73c,softly.sex,available,69.98,154.98,high,low,6,namecheap,,,27/09/2026 03:45
 80e334d0-811d-4ecd-a67a-2218882e2463,desk.sex,available,69.98,154.98,high,low,4,namecheap,,,08/09/2026 08:30
 08a0798e-fc74-45c1-b9d6-aa5e032f3789,smarted.sex,available,69.98,154.98,medium,low,7,namecheap,,,20/09/2026 16:41
-48f1a576-fc0f-4498-8935-365516f999ff,glaswegian.sex,available,69.98,154.98,high,low,10,namecheap,,,20/08/2026 14:14
+48f1a576-fc0f-4498-8935-365516f999ff,glaswegian.sex,available,69.98,154.98,medium,low,10,namecheap,,,20/08/2026 14:14
 a6553b92-9591-49d2-b9a4-039e76338b02,regime.sex,available,69.98,154.98,high,low,6,namecheap,,,21/09/2026 05:23
 ea9a7bd2-0403-4c4e-8147-f0297e301c96,randomised.sex,available,69.98,154.98,high,medium,10,namecheap,,,09/09/2026 10:15
 e2f25169-aa6e-4c3e-82a9-1480fab48780,acapulco.sex,available,69.98,154.98,high,low,8,namecheap,,,16/09/2026 21:10
 3cebb489-290f-41b1-b496-bd48506ad56d,copaiba.sex,available,69.98,154.98,medium,low,7,namecheap,,,22/09/2026 00:08
 1e04018f-28be-4e5b-ad30-9e57c90944be,bars.sex,available,154.98,,high,low,4,namecheap,,,
-3cf3a71e-c228-41f7-86ca-167c4e4d6a1e,truster.sex,available,69.98,154.98,high,low,7,namecheap,,,23/09/2026 05:14
-507517cd-8db9-4db5-8fbf-db633374ac2e,testimony.sex,available,154.98,,high,low,9,namecheap,,,
+3cf3a71e-c228-41f7-86ca-167c4e4d6a1e,truster.sex,available,69.98,154.98,medium,low,7,namecheap,,,23/09/2026 05:14
+507517cd-8db9-4db5-8fbf-db633374ac2e,testimony.sex,available,69.98,154.98,high,low,9,namecheap,,,28/09/2026 02:23
 42b8798f-4e68-412d-9d17-f14926633b01,appal.sex,available,69.98,154.98,medium,low,5,namecheap,,,18/09/2026 01:52
 53d00d0e-fc49-45ed-afb0-12e53f8f9ba9,tournament.sex,available,69.98,154.98,high,low,10,namecheap,,,27/09/2026 05:49
 7047ca35-bfb6-4a89-ab29-a9ffb9ce8b10,newsstand.sex,premium,322.4,322.4,medium,low,10,namecheap,,,17/09/2026 05:46
 507bf0f8-4ac0-401f-83a8-4a665702d38b,doubter.sex,available,69.98,154.98,medium,low,7,namecheap,,,
 17ba6149-f969-490d-b432-1379b79d7754,vacuum.sex,available,154.98,,high,low,6,namecheap,,,
-23c8a982-3256-45b2-b583-a646f9430e72,bilge.sex,available,69.98,154.98,high,low,5,namecheap,,,23/09/2026 15:50
+23c8a982-3256-45b2-b583-a646f9430e72,bilge.sex,available,69.98,154.98,medium,low,5,namecheap,,,23/09/2026 15:50
 90e4737a-bd43-40d3-8e15-ebb08c9885b5,refulgent.sex,available,69.98,154.98,medium,low,9,namecheap,,,15/08/2026 16:26
 3dcfc1b8-b97a-4185-b035-c7bd1e4efc68,eye.sex,available,69.98,154.98,high,low,3,namecheap,,,23/09/2026 13:32
 5a0ee372-f42f-40eb-8004-222f1c2e2e40,erratum.sex,available,69.98,154.98,medium,low,7,namecheap,,,24/08/2026 07:21
@@ -43,11 +43,11 @@ d1ebe5cd-f6cb-4b2e-b15d-4483f431892e,peeking.sex,available,154.98,,high,low,7,na
 73866a1a-418f-43cf-b83d-a689fc13fa3a,mangold.sex,available,69.98,154.98,medium,low,7,namecheap,,,23/09/2026 11:02
 1284dcf3-4c3e-4dd9-8646-027c5572e326,opened.sex,available,69.98,154.98,high,low,6,namecheap,,,04/09/2026 16:13
 e780616d-73e6-40ee-89a9-66a7ac15ab46,concordant.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/08/2026 20:16
-f74ab858-18f3-4688-8615-d24643d09542,derelict.sex,available,69.98,154.98,high,low,8,namecheap,,,21/09/2026 13:39
+f74ab858-18f3-4688-8615-d24643d09542,derelict.sex,available,69.98,154.98,medium,low,8,namecheap,,,21/09/2026 13:39
 976cde6d-dc3b-4c26-9f2f-80b85873b976,impersonal.sex,available,69.98,154.98,medium,low,10,namecheap,,,21/08/2026 22:13
 6a9cbffb-c525-49d4-b35c-fd4ff2bb6831,balthazar.sex,available,69.98,154.98,high,low,9,namecheap,,,22/09/2026 00:14
-1d946dba-ff8b-44d2-ab45-647e4dbcc1ed,walden.sex,available,69.98,154.98,high,low,6,namecheap,,,27/09/2026 08:12
-51c5e910-7ee8-49d0-af44-5f79653a5113,ruiz.sex,available,69.98,154.98,high,low,4,namecheap,,,27/09/2026 07:03
+1d946dba-ff8b-44d2-ab45-647e4dbcc1ed,walden.sex,available,69.98,154.98,medium,low,6,namecheap,,,27/09/2026 08:12
+51c5e910-7ee8-49d0-af44-5f79653a5113,ruiz.sex,available,69.98,154.98,medium,low,4,namecheap,,,27/09/2026 07:03
 1a05d02f-7276-403f-837d-e2e40b6e7d54,raw.sex,premium,775,775,high,low,3,name.com,,,08/08/2026 18:20
 7c6c4eae-d527-468d-83fe-bbbbb053f794,lollygag.sex,available,69.98,154.98,medium,low,8,namecheap,,,11/09/2026 08:29
 c21195f8-db07-4c4e-91d6-b07b1ff29ac9,remover.sex,available,154.98,,high,low,7,namecheap,,,
@@ -57,7 +57,7 @@ ac2be134-669c-4b4a-a60a-7d6112abcae3,utmost.sex,available,69.98,154.98,high,low,
 ffaa44a9-79af-4593-ae57-d0e7c2623725,documents.sex,available,154.98,,high,low,9,namecheap,,,
 960520ca-d594-4873-a72d-12ea0bc83e31,below.sex,available,69.98,154.98,high,low,5,namecheap,,,24/09/2026 12:01
 826f727d-1a1f-46c0-a02a-3c5f053e8e10,premiss.sex,available,69.98,154.98,medium,low,7,namecheap,,,20/09/2026 16:38
-1364bda6-b894-49ab-a400-c66486775d99,peirce.sex,available,69.98,154.98,high,low,6,namecheap,,,23/09/2026 08:23
+1364bda6-b894-49ab-a400-c66486775d99,peirce.sex,available,69.98,154.98,medium,low,6,namecheap,,,23/09/2026 08:23
 74075376-570f-4d89-8017-873add3d683f,systematically.sex,available,154.98,,medium,low,14,namecheap,,,
 cf858c67-3244-4e60-9808-47cdaad34912,filed.sex,available,154.98,,medium,low,5,namecheap,,,
 83983e24-f8bd-4194-b68e-0ffbb2d5e0b8,imbalanced.sex,available,69.98,154.98,medium,low,10,namecheap,,,21/08/2026 20:20
@@ -66,7 +66,7 @@ cc2af677-86f4-490b-8528-bdf5d2b9bcf0,adps.sex,available,69.98,154.98,medium,low,
 fc3d9fa0-b8a3-43af-895a-35ddbacbe51b,embonpoint.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/08/2026 07:33
 ddad8f18-b07e-449f-9582-65bdacc7e05d,malignant.sex,available,69.98,154.98,medium,low,9,namecheap,,,24/08/2026 14:08
 fdb8519d-57e2-4247-9448-f81b9116cbf4,indulging.sex,available,69.98,154.98,high,low,9,namecheap,,,05/09/2026 00:26
-6ef160fc-01e8-4b8b-8971-a9737f564e1c,ricefield.sex,available,154.98,,high,low,10,namecheap,,,
+6ef160fc-01e8-4b8b-8971-a9737f564e1c,ricefield.sex,available,154.98,,medium,low,10,namecheap,,,
 caf6253d-89e4-48a0-ae63-19c01611354b,highly.sex,available,154.98,,high,low,6,namecheap,,,
 41ddd401-5c5d-4b41-aa88-80cfd3292514,archdeacon.sex,available,179.99,179.99,medium,low,10,name.com,,,20/09/2026 01:53
 d515ff9f-a0c3-43e0-b0db-65b777aed3e2,immaterial.sex,available,69.98,154.98,medium,low,10,namecheap,,,17/08/2026 19:22
@@ -79,7 +79,7 @@ bb6af700-e8f4-4439-a703-c29aacc273cb,screaming.sex,available,69.98,154.98,high,l
 372baa34-56d0-4f44-bf28-8c58a6364137,silvern.sex,available,69.98,154.98,high,medium,7,namecheap,,,10/09/2026 08:13
 487d1afb-77b8-448e-9a25-5613ded7cf4b,unrecorded.sex,available,69.98,154.98,medium,low,10,namecheap,,,24/08/2026 07:46
 40c32fc1-b326-473a-aa59-cd23009675fc,hosts.sex,available,69.98,154.98,medium,low,5,namecheap,,,18/09/2026 22:23
-17e977c3-6025-493f-92de-e6239cac32e8,tyrant.sex,available,69.98,154.98,high,low,6,namecheap,,,21/09/2026 06:08
+17e977c3-6025-493f-92de-e6239cac32e8,tyrant.sex,available,69.98,154.98,medium,low,6,namecheap,,,21/09/2026 06:08
 18d4d0b6-e096-41b6-8890-99ebfe6dea8e,breastfeed.sex,available,154.98,,high,low,11,namecheap,,,
 0e7a2b67-3965-4670-95b1-991f61d612b1,once.sex,available,69.98,154.98,high,low,4,namecheap,,,24/09/2026 15:11
 4d942516-d18d-4ce4-8a5c-300df25f5d57,tipple.sex,available,69.98,154.98,medium,low,6,namecheap,,,23/09/2026 12:44
@@ -109,16 +109,16 @@ f22a19a4-875c-4359-b01c-0f17070d1f5f,noticeable.sex,available,69.98,154.98,high,
 b897fbdf-dab3-4e2d-9b60-af8442931cbf,disgrace.sex,available,154.98,,high,low,8,namecheap,,,
 f7dae7d0-acf9-45a1-b620-9e56957ea3f1,comp.sex,available,69.98,154.98,high,low,4,namecheap,,,23/09/2026 17:59
 b398a12e-b2b5-4318-9c4c-4ba460ed6d79,vicennial.sex,available,69.98,154.98,medium,low,9,namecheap,,,13/09/2026 05:23
-dc2319f3-dcc2-4c10-b09d-bba9d46ccc29,rarefied.sex,available,69.98,154.98,high,low,8,namecheap,,,17/08/2026 15:44
+dc2319f3-dcc2-4c10-b09d-bba9d46ccc29,rarefied.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/08/2026 15:44
 a70d0cf0-9ddd-4386-a0b4-8bbdc731f091,cockpit.sex,available,154.98,,high,low,7,namecheap,,,
 b6bf1909-5f75-4bd6-ae5d-f2e9042680bb,pinch.sex,available,154.98,,high,low,5,namecheap,,,
 2cdefd96-7ef2-4465-9762-de3b92929d63,arrowroot.sex,available,69.98,154.98,medium,low,9,namecheap,,,17/09/2026 00:43
 711b4f5d-5483-485b-9880-fe1ba60ae1ba,legitimate.sex,available,69.98,154.98,high,low,10,namecheap,,,22/08/2026 23:04
-3e9a3cd8-54cc-4839-98ad-29d7da74ee81,almsgiving.sex,available,69.98,154.98,high,low,10,namecheap,,,18/09/2026 12:43
+3e9a3cd8-54cc-4839-98ad-29d7da74ee81,almsgiving.sex,available,69.98,154.98,medium,low,10,namecheap,,,18/09/2026 12:43
 8e6917c0-9066-44c0-b311-d2ffbc82f9ae,glut.sex,available,69.98,154.98,medium,low,4,namecheap,,,23/09/2026 17:21
 c0de5288-faba-41e4-b6a3-420111537905,likeable.sex,available,69.98,154.98,high,low,8,namecheap,,,23/08/2026 06:11
 835ac010-f65e-4c13-8794-552355eec510,croatian.sex,available,69.98,154.98,high,low,8,namecheap,,,13/08/2026 07:32
-c81ac186-1fbe-483c-82a7-327a34995dce,aquifer.sex,available,69.98,154.98,high,low,7,namecheap,,,19/09/2026 23:11
+c81ac186-1fbe-483c-82a7-327a34995dce,aquifer.sex,available,69.98,154.98,medium,low,7,namecheap,,,19/09/2026 23:11
 71a60bc8-7df0-43f7-be78-dc53a94c3e92,emerging.sex,available,69.98,154.98,high,low,8,namecheap,,,16/08/2026 15:03
 05fd2ef7-9639-48f7-80bb-846619ed177a,informers.sex,available,69.98,154.98,medium,low,9,namecheap,,,21/09/2026 09:19
 6aefd278-b760-48e0-bf66-f06a29c6952e,stalked.sex,available,69.98,154.98,medium,low,7,namecheap,,,08/09/2026 13:33
@@ -145,7 +145,7 @@ f670e6d1-ff25-48eb-ab3f-8c7ebefce688,brought.sex,available,154.98,,medium,low,7,
 6d78aead-ff92-4414-93ef-110395eadca9,heads.sex,available,154.98,,high,low,5,namecheap,,,
 5afce30c-ba2c-45d4-a31a-ae144b15b2d8,ornamental.sex,available,69.98,154.98,high,low,10,namecheap,,,13/08/2026 02:53
 9e6ffca7-4b25-4ab4-bd26-2a9a3c61eb31,estival.sex,available,69.98,154.98,medium,low,7,namecheap,,,
-0411b5b9-1f2d-4a65-8a0c-59a70f49ee2d,maximising.sex,available,69.98,154.98,high,low,10,namecheap,,,24/08/2026 17:58
+0411b5b9-1f2d-4a65-8a0c-59a70f49ee2d,maximising.sex,available,69.98,154.98,medium,low,10,namecheap,,,24/08/2026 17:58
 74a8b4bc-1deb-41ec-b596-6b868a6bf2c9,apraxia.sex,available,69.98,154.98,medium,low,7,namecheap,,,19/09/2026 22:29
 3b524e4b-b5f1-4b71-9c0c-1890aa8b4867,benevolent.sex,available,69.98,154.98,high,low,10,namecheap,,,09/08/2026 14:27
 a539167a-7050-4392-9321-179605a00564,passports.sex,available,69.98,154.98,medium,low,9,namecheap,,,20/09/2026 09:52
@@ -154,14 +154,16 @@ e754f6ef-0874-4eb3-872a-303a1a0d1693,quicker.sex,available,69.98,154.98,high,low
 a148833f-9e99-42f5-89f7-18eb7f1eba91,comate.sex,available,69.98,154.98,low,low,6,namecheap,,,12/08/2026 18:20
 effc56ef-0e37-41bf-824b-81a2eabac579,ashen.sex,available,69.98,154.98,medium,low,5,namecheap,,,07/08/2026 02:09
 ee95629f-8fd2-4f92-ae33-baa38102275b,hesse.sex,available,69.98,154.98,high,low,5,namecheap,,,27/09/2026 04:26
+2fe1ecda-dc5e-4ec0-b127-a9800845b9ed,sharks.sex,available,69.98,154.98,medium,low,6,namecheap,,,27/09/2026 23:50
 8958b7b8-a077-4ec3-aedc-2bb9a1f29033,industrialize.sex,available,154.98,,medium,low,13,namecheap,,,
 947c16b6-281d-4ba3-86b5-47b2aac04c45,mckinley.sex,available,69.98,154.98,high,low,8,namecheap,,,25/09/2026 04:51
 b90cbab1-d2a0-4027-bc31-c8b4bb79368b,clementine.sex,available,69.98,154.98,high,low,10,namecheap,,,24/09/2026 15:33
 94a0338a-7979-41f8-872b-7b7fd1467905,dita.sex,available,69.98,154.98,medium,low,4,namecheap,,,18/09/2026 14:25
-8aeaef8e-f0e6-4a0c-a479-9914ca2458fd,ambiguity.sex,available,69.98,154.98,high,low,9,namecheap,,,18/09/2026 16:43
+8aeaef8e-f0e6-4a0c-a479-9914ca2458fd,ambiguity.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/09/2026 16:43
 33d6f116-bb4e-4113-91e0-2466e1478157,chordate.sex,available,69.98,154.98,medium,low,8,namecheap,,,12/08/2026 07:12
 da19329f-99a3-49b1-b5e4-ccb4f1caafab,rectangle.sex,available,154.98,,high,low,9,namecheap,,,
 60349cc1-ad0b-494a-8f38-6d5035a37efc,caudate.sex,available,69.98,154.98,medium,low,7,namecheap,,,11/08/2026 22:26
+5dfbf5db-148a-4a67-9fda-2ca3575dc290,gonzales.sex,available,101.87,101.87,medium,low,8,dynadot,,,27/09/2026 20:26
 6a48ef32-972b-4ad3-bd94-34155490dd76,variety.sex,available,69.98,154.98,high,low,7,namecheap,,,25/09/2026 12:52
 561befc3-aace-473d-b0c7-9e83d9dcad63,dreadful.sex,available,69.98,154.98,high,low,8,namecheap,,,22/09/2026 15:15
 0488038b-ccb5-41c0-a0c8-6eff54663902,laughter.sex,available,154.98,,high,low,8,namecheap,,,
@@ -171,7 +173,7 @@ a141be30-0e77-4243-a580-3f206b7e411d,opulent.sex,available,69.98,154.98,high,low
 041750cd-78d3-4d97-bb1e-2795ac1490d6,pilary.sex,available,69.98,154.98,high,medium,6,namecheap,,,08/09/2026 19:40
 9cf07a0c-7e22-4382-b3f1-04a3651835cf,born.sex,available,69.98,154.98,high,low,4,namecheap,,,23/09/2026 00:37
 8b445206-94f3-4375-b256-2525e5bd6660,machinist.sex,available,69.98,154.98,high,low,9,namecheap,,,19/09/2026 17:14
-3e9154e0-c19b-491c-bd38-759ffbc24f49,foldaway.sex,available,69.98,154.98,high,low,8,namecheap,,,18/08/2026 10:07
+3e9154e0-c19b-491c-bd38-759ffbc24f49,foldaway.sex,available,69.98,154.98,medium,low,8,namecheap,,,18/08/2026 10:07
 0a839915-b539-4b25-9a0b-1477d09d6b91,rosaceous.sex,available,69.98,154.98,high,medium,9,namecheap,,,09/09/2026 18:39
 fb0b574b-305c-41b2-8d23-ee36e66992d5,stallion.sex,resell,154.98,,high,low,8,"GoDaddy.com, LLC",15/05/2026 04:06,15/05/2027 04:06,26/09/2026 09:16
 d5940715-c4eb-4052-8621-22cebf4ddea3,danny.sex,available,69.98,154.98,medium,low,5,namecheap,,,25/09/2026 17:19
@@ -180,8 +182,9 @@ e30699fe-74bd-466b-97a0-835015649caf,sucks.sex,available,69.98,154.98,medium,low
 aff09358-9aa0-4d6d-98a7-00ee3e5ce6ba,perturbed.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/08/2026 09:31
 abe7d2b9-cb3d-4d32-8861-0d09d0cdbf6f,splits.sex,available,69.98,154.98,high,low,6,namecheap,,,20/09/2026 07:59
 28767328-f21c-4580-904b-ab5d6f800352,discovered.sex,available,69.98,154.98,high,low,10,namecheap,,,22/09/2026 09:21
-ee6b51d7-6b3d-4865-a6f7-89c2fd1ec7d9,jaded.sex,available,69.98,154.98,high,low,5,namecheap,,,22/08/2026 11:58
+ee6b51d7-6b3d-4865-a6f7-89c2fd1ec7d9,jaded.sex,available,69.98,154.98,medium,low,5,namecheap,,,22/08/2026 11:58
 a68209fe-541d-42d9-b196-8d399ded3984,carsick.sex,available,69.98,154.98,medium,low,7,namecheap,,,
+cc164e71-2c0c-4e89-9426-fdcecb3f013d,katherine.sex,available,69.98,154.98,high,low,9,namecheap,,,28/09/2026 03:49
 11b20740-4e2f-49ce-b12c-b03ffad127de,bipartisan.sex,available,69.98,154.98,high,low,10,namecheap,,,10/08/2026 04:32
 c9182b3d-6f3c-4259-b595-801f8cc89dab,petroleum.sex,available,69.98,154.98,high,low,9,namecheap,,,13/08/2026 08:55
 5834362d-61e2-48a2-9673-4ca661dd23cb,immensely.sex,available,69.98,154.98,high,low,9,namecheap,,,15/09/2026 01:58
@@ -190,13 +193,14 @@ f3664b90-239d-4067-b28b-34fcc78cf0a3,mentions.sex,available,69.98,154.98,medium,
 a37589e0-5892-4ee8-93c2-0f248254d213,disloyalty.sex,available,69.98,154.98,medium,low,10,namecheap,,,24/09/2026 22:47
 9741722e-3c45-4539-963d-eabae8bff557,satisfying.sex,available,69.98,154.98,high,low,10,namecheap,,,12/08/2026 03:47
 f4b85971-b5cb-4614-a7a3-c13e3acf5849,flattened.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/08/2026 06:55
+29aa3e09-be94-4c90-8f8e-f5c3deb24359,adele.sex,available,95.2,95.2,high,low,5,cloudflare,,,28/09/2026 03:38
 917b4021-922b-43d9-baf0-f368172bbf2d,undogmatic.sex,available,69.98,154.98,medium,low,10,namecheap,,,18/08/2026 14:50
 4cfd7381-2510-459d-bbf3-796e29cb3935,deciphered.sex,available,69.98,154.98,medium,low,10,namecheap,,,13/08/2026 21:34
 ec1492a4-59dc-4d72-bfa0-cd412b2298a8,hugging.sex,available,69.98,154.98,high,low,7,namecheap,,,24/09/2026 12:55
 0bb8ac79-c69c-4c39-9e8c-3014509cc0ba,hebrew.sex,available,69.98,154.98,high,low,6,namecheap,,,21/08/2026 05:43
 46310ec8-71bf-4ee5-a0ba-b2dfa768f596,absorbed.sex,available,69.98,154.98,high,low,8,namecheap,,,21/09/2026 14:58
 6f87906e-04b3-4526-85fd-6455286552e9,lxxiv.sex,available,69.98,154.98,medium,low,5,namecheap,,,
-de7042ff-ec9b-4b3e-8694-a359216772ae,lecherous.sex,available,69.98,154.98,high,low,9,namecheap,,,22/08/2026 22:17
+de7042ff-ec9b-4b3e-8694-a359216772ae,lecherous.sex,available,69.98,154.98,medium,low,9,namecheap,,,22/08/2026 22:17
 08740ef5-f69b-4980-82a5-458bf2d0b2f1,usaf.sex,available,69.98,154.98,high,low,4,namecheap,,,25/09/2026 10:56
 6e23375f-436a-484e-ac93-fb1111e6125e,typically.sex,available,154.98,,medium,low,9,namecheap,,,
 3628adf4-279b-447d-9e7c-771f7a05a129,applesauce.sex,available,69.98,154.98,high,low,10,namecheap,,,19/09/2026 21:26
@@ -250,34 +254,38 @@ e21574fd-ca0c-4750-8dc4-a5fc52717ab0,motorist.sex,available,69.98,154.98,high,lo
 fa8164ec-bf02-498d-9905-633c01c4f785,wolfbane.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/09/2026 02:09
 487d7c91-447e-4406-b63b-7aac00099338,spotted.sex,available,69.98,154.98,high,low,7,namecheap,,,10/09/2026 16:39
 2d88f258-e9d5-47b5-80fd-1c7ceb806883,answerable.sex,available,69.98,154.98,high,low,10,namecheap,,,22/09/2026 05:32
+a1b48e7e-6083-4b4e-b2fb-86330c2898be,trainer.sex,available,51.95,98.53,high,low,7,spaceship,,,27/09/2026 13:32
 f04d6d48-0d3a-4ef3-8163-2d29946d59e1,eyetooth.sex,available,69.98,154.98,medium,low,8,namecheap,,,11/08/2026 16:59
 fdbc1bfc-d581-41ea-a24e-9919eeb702ab,disguise.sex,available,154.98,,high,low,8,namecheap,,,
 0579ad0a-3918-4e88-a6fa-e48150f8d14e,framework.sex,available,69.98,154.98,high,low,9,namecheap,,,25/08/2026 02:30
 b994ab43-f596-4b2b-be13-2dab58f310a1,dignitary.sex,available,154.98,,high,low,9,namecheap,,,
 10aadd25-2d46-40a0-9c8f-05cb54795eba,algiers.sex,available,69.98,154.98,medium,low,7,namecheap,,,18/09/2026 06:59
 e94ed4a4-8fb2-4415-89e0-bdc291c3998a,arroyo.sex,available,69.98,154.98,high,low,6,namecheap,,,20/09/2026 09:33
-087daf79-34ce-4b18-ac70-a276ee94c6ba,rambling.sex,available,69.98,154.98,high,low,8,namecheap,,,17/08/2026 16:41
+087daf79-34ce-4b18-ac70-a276ee94c6ba,rambling.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/08/2026 16:41
 cd0ed62d-e4b9-4960-af07-c0dc37dadbc2,notify.sex,available,154.98,,high,low,6,namecheap,,,
 ce56fa1d-d27e-4172-b96f-b6fcdfd3b83a,uneven.sex,available,69.98,154.98,high,low,6,namecheap,,,04/09/2026 00:48
-77cc650e-447d-4577-b61b-3adfef055fdf,snarl.sex,available,69.98,154.98,high,low,5,namecheap,,,24/08/2026 16:56
+77cc650e-447d-4577-b61b-3adfef055fdf,snarl.sex,available,69.98,154.98,medium,low,5,namecheap,,,24/08/2026 16:56
+d185bff5-1602-45e8-b6c0-432fc6d3d078,janice.sex,available,69.98,154.98,high,low,6,namecheap,,,27/09/2026 19:53
 376a0e74-31c4-4813-bd48-64c5bf850c63,knower.sex,available,69.98,154.98,medium,low,6,namecheap,,,19/09/2026 22:14
 a1872691-ce7e-4511-b724-412889ce7b6b,permitted.sex,available,154.98,,high,low,9,namecheap,,,
 c4fb972f-0215-4ab5-902f-6076e79b2567,illegally.sex,available,69.98,154.98,medium,low,9,namecheap,,,15/09/2026 01:44
 41c67aef-9a8c-442e-8718-06d64c0c2597,unshaken.sex,available,69.98,154.98,high,low,8,namecheap,,,12/09/2026 07:04
 a4516480-3142-4d06-9ecf-54abe8a23af5,hueless.sex,available,69.98,154.98,medium,low,7,namecheap,,,21/08/2026 14:36
 759d042e-f1cd-4585-a9c7-b68ec46d4c4b,blenny.sex,available,69.98,154.98,medium,low,6,namecheap,,,24/09/2026 06:00
+9d50fb55-b861-4c5d-b149-261fd8ab4bea,loeb.sex,available,95.2,95.2,high,low,4,cloudflare,,,28/09/2026 02:11
 a8e7f5b1-5cdb-4eba-a215-ce6ad7b2d730,ruckle.sex,available,69.98,154.98,medium,low,6,namecheap,,,13/08/2026 07:12
 7557b273-d9f8-401f-8a1b-e7d9c0f129d1,stilted.sex,available,69.98,154.98,medium,low,7,namecheap,,,10/09/2026 20:37
-0e252fab-4d1e-4e56-8793-cff48f0d9b58,compel.sex,available,69.98,154.98,high,low,6,namecheap,,,03/09/2026 23:39
+0e252fab-4d1e-4e56-8793-cff48f0d9b58,compel.sex,available,69.98,154.98,medium,low,6,namecheap,,,03/09/2026 23:39
 5dcbe7e3-b2ac-48bb-b793-6bb6456e1b4d,comte.sex,available,69.98,154.98,high,low,5,namecheap,,,21/09/2026 03:56
-aff23965-1486-4347-9b1c-9b70ab3066ee,gloriously.sex,available,69.98,154.98,high,low,10,namecheap,,,14/09/2026 21:45
+aff23965-1486-4347-9b1c-9b70ab3066ee,gloriously.sex,available,69.98,154.98,medium,low,10,namecheap,,,14/09/2026 21:45
 4a5f2475-eaa7-473e-ab5f-9e300fbf93b8,dude.sex,available,179.99,179.99,high,low,4,name.com,,,13/08/2026 17:07
 d66ff6df-70fc-4bd7-b29e-5ea408647afd,painter.sex,available,51.95,98.53,high,low,7,spaceship,,,27/09/2026 12:44
 cb8f2d86-77af-4bbd-94cb-52d2f4bb87a4,holloway.sex,available,69.98,154.98,high,low,8,namecheap,,,26/09/2026 03:22
 d1609d8f-232f-4969-a686-76d04c2f6a1c,synchronal.sex,available,69.98,154.98,medium,low,10,namecheap,,,11/09/2026 06:13
 63a8649d-f754-4d4f-947d-1848aa946872,precise.sex,available,69.98,154.98,high,low,7,namecheap,,,27/09/2026 04:53
 0ee1a08d-a398-4d8a-a358-c58e8b458d3b,goofproof.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/08/2026 10:41
-32ece508-903b-4e12-b863-aba89fdd2753,perforation.sex,available,154.98,,high,low,11,namecheap,,,
+32ece508-903b-4e12-b863-aba89fdd2753,perforation.sex,available,154.98,,medium,low,11,namecheap,,,
+cca1faae-fa08-4777-8080-076e054c54e0,october.sex,available,51.95,98.53,high,low,7,spaceship,,,28/09/2026 02:51
 10e65b62-5794-4dce-80b0-3be7edae7ca2,baluster.sex,available,69.98,154.98,medium,low,8,namecheap,,,22/09/2026 00:22
 3174ee29-e16a-41e9-9881-a903223a3d32,abraham.sex,available,69.98,154.98,high,low,7,namecheap,,,16/09/2026 16:50
 9d8a4c2b-627e-4a1d-8588-8753ae03970d,recent.sex,available,69.98,154.98,high,low,6,namecheap,,,27/09/2026 10:49
@@ -290,6 +298,7 @@ e3f38ad7-9353-4e6d-94d5-9f11303d9c63,prayers.sex,available,69.98,154.98,high,low
 92740842-e1cf-48c2-8009-7a12eb65dc48,strapless.sex,available,69.98,154.98,high,low,9,namecheap,,,10/09/2026 21:55
 e29ad153-c579-4353-8ff1-1c0fcce78b05,gould.sex,available,69.98,154.98,high,low,5,namecheap,,,25/09/2026 06:39
 2428b624-b9da-436d-8c37-65438da313c3,athwart.sex,available,69.98,154.98,medium,low,7,namecheap,,,13/09/2026 22:38
+c1e2b4ac-49d8-470e-8a3d-5ef35c091699,screams.sex,available,52.01,98.35,medium,low,7,porkbun,,,28/09/2026 00:29
 460dfc95-9f86-4af1-9816-5851e83ab9cd,kenneth.sex,available,69.98,154.98,high,low,7,namecheap,,,25/09/2026 19:13
 a1294171-1ab9-4409-8108-d20dd109d6f1,worshipful.sex,available,69.98,154.98,high,low,10,namecheap,,,
 734faa7c-1610-4c02-a41e-dc21d5a7eed4,miry.sex,available,69.98,154.98,medium,low,4,namecheap,,,10/08/2026 17:05
@@ -316,16 +325,16 @@ cbad1471-9bda-4ef9-9c98-17a728e62e52,shallot.sex,available,69.98,154.98,medium,l
 96cfea45-3d08-4351-9dd5-7ac3af2d6c1c,jacks.sex,available,154.98,,high,low,5,namecheap,,,
 6d708c3b-15b6-47d0-a219-576f9b1f6cef,gracile.sex,available,69.98,154.98,medium,low,7,namecheap,,,20/08/2026 17:29
 9f6f2d6f-9d2b-456b-aef3-50b352154fe3,barge.sex,available,69.98,154.98,medium,low,5,namecheap,,,22/09/2026 05:37
-3e06e709-5cd1-4d4b-850c-cfbd34522a44,intrastate.sex,available,69.98,154.98,high,low,10,namecheap,,,22/08/2026 08:45
+3e06e709-5cd1-4d4b-850c-cfbd34522a44,intrastate.sex,available,69.98,154.98,medium,low,10,namecheap,,,22/08/2026 08:45
 7a150fb5-6696-40a8-8f1a-7e3a3ca77192,agitprop.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/09/2026 18:14
-5c63cb46-b6a4-4eae-95bb-74d66c58d190,gaza.sex,available,69.98,154.98,high,low,4,namecheap,,,25/09/2026 06:23
+5c63cb46-b6a4-4eae-95bb-74d66c58d190,gaza.sex,available,69.98,154.98,medium,low,4,namecheap,,,25/09/2026 06:23
 503649d9-1912-4d81-96e5-f1fcacaa3c6a,clanking.sex,available,69.98,154.98,medium,low,8,namecheap,,,12/08/2026 09:33
 dd40306a-b93f-4799-9855-f62741d62b67,wears.sex,available,69.98,154.98,high,low,5,namecheap,,,17/09/2026 10:43
 c8c05e6e-eef2-46ef-a413-c5f39a3ceff3,boondocks.sex,available,69.98,154.98,medium,low,9,namecheap,,,21/09/2026 14:32
 22a1e7e1-b49c-45b4-9982-5a9d089bd926,corrode.sex,available,69.98,154.98,medium,low,7,namecheap,,,09/09/2026 20:10
 89a00b60-af8e-4dc4-9b14-934c2ac469fe,gregor.sex,available,154.98,,high,low,6,namecheap,,,
 4c1b137c-60e4-46c4-81e2-b8ca40dbfbae,cerebellar.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/08/2026 00:28
-1b1b80fc-bcfe-4868-917b-577f1adf3429,benzine.sex,available,69.98,154.98,high,low,7,namecheap,,,23/09/2026 08:53
+1b1b80fc-bcfe-4868-917b-577f1adf3429,benzine.sex,available,69.98,154.98,medium,low,7,namecheap,,,23/09/2026 08:53
 1a9d7af0-7495-4e97-8cc4-d61bd3555f31,backrest.sex,available,179.99,179.99,medium,low,8,name.com,,,21/09/2026 15:47
 1eef1c4e-5b5a-4696-bc12-24bfcb8d73a1,closeness.sex,available,69.98,154.98,high,low,9,namecheap,,,24/09/2026 15:57
 0842da98-8bb3-4a9f-84c4-3c81e8f4271d,erroneous.sex,available,69.98,154.98,medium,low,9,namecheap,,,17/08/2026 12:56
@@ -342,7 +351,7 @@ e545e894-e809-4c4e-9d78-cfc3575c4251,fumed.sex,available,69.98,154.98,medium,low
 7cddb2da-6506-4061-989d-d2e91dd1dbca,manque.sex,available,69.98,154.98,medium,low,6,namecheap,,,24/08/2026 15:28
 ac117403-baa0-4cc1-9552-d7ddc6e0b3ec,aloof.sex,available,69.98,154.98,medium,low,5,namecheap,,,
 5c972c31-1bcc-4509-bcd9-6b8bd78cb5cb,kennedy.sex,available,69.98,154.98,high,low,7,namecheap,,,25/09/2026 23:14
-a32169f9-a6b1-4565-88e5-5bd25bf5612b,atrophy.sex,available,69.98,154.98,high,low,7,namecheap,,,13/09/2026 12:50
+a32169f9-a6b1-4565-88e5-5bd25bf5612b,atrophy.sex,available,69.98,154.98,medium,low,7,namecheap,,,13/09/2026 12:50
 e904e8bd-630e-41f4-9c6a-c7ca86abe0cf,allotrope.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/09/2026 12:06
 0a5176b8-1246-4dc6-8353-d17e7ea9a7cb,institution.sex,available,179.99,179.99,high,low,11,name.com,,,27/09/2026 08:25
 93d487fe-32f1-4ee8-b12e-56545081e990,identifier.sex,available,154.98,,high,low,10,namecheap,,,
@@ -361,16 +370,16 @@ e27d92ce-bf82-4571-9568-434fc3d4583d,moroccan.sex,available,69.98,154.98,high,lo
 6e26a177-d79b-458c-88e6-44b801f06283,anaclitic.sex,available,69.98,154.98,medium,low,9,namecheap,,,
 eb1b69b9-7220-4900-b19b-0fdbf99044e3,vacant.sex,available,69.98,154.98,medium,low,6,namecheap,,,13/09/2026 00:38
 769d3920-1a24-42ae-8616-839d94f8f28d,bathymetry.sex,available,69.98,154.98,medium,low,10,namecheap,,,22/09/2026 13:55
-14f01633-981d-42f1-be0d-876aeba626fe,amaranthus.sex,available,69.98,154.98,high,low,10,namecheap,,,18/09/2026 15:51
+14f01633-981d-42f1-be0d-876aeba626fe,amaranthus.sex,available,69.98,154.98,medium,low,10,namecheap,,,18/09/2026 15:51
 72f9c60f-d81d-4d5e-ab77-2c0e52b0eebe,hieratic.sex,available,69.98,154.98,medium,low,8,namecheap,,,21/08/2026 08:24
 2f65f3ad-1158-4040-adf0-4d5955a23c55,sublime.sex,available,69.98,154.98,high,low,7,namecheap,,,17/08/2026 15:39
 e49e8b5c-3f6a-42ca-b372-7720a5be2db2,decent.sex,available,69.98,154.98,high,low,6,namecheap,,,09/08/2026 06:17
 129dff98-44e7-4ff3-8466-ae699f54812f,reminds.sex,available,69.98,154.98,medium,low,7,namecheap,,,27/09/2026 03:09
-3fc156ff-8b13-4fe9-bd27-bfdf2d6b7478,roast.sex,available,154.98,,high,low,5,namecheap,,,
+3fc156ff-8b13-4fe9-bd27-bfdf2d6b7478,roast.sex,available,101.87,101.87,high,low,5,dynadot,,,27/09/2026 15:46
 6dd1f483-6e81-4f2e-83d7-a5040e9dadb1,foolhardy.sex,available,69.98,154.98,high,low,9,namecheap,,,18/08/2026 10:28
 bbeeca56-c2ec-4a3e-a16a-c95fa5fc89f8,landless.sex,available,69.98,154.98,medium,low,8,namecheap,,,22/08/2026 19:24
-087529da-3b6e-4e08-80d1-7eca07fceb17,prox.sex,available,69.98,154.98,high,low,4,namecheap,,,09/09/2026 04:42
-770f52c1-c940-4c39-9784-956c47bd80a2,palaver.sex,available,69.98,154.98,high,low,7,namecheap,,,23/09/2026 23:26
+087529da-3b6e-4e08-80d1-7eca07fceb17,prox.sex,available,69.98,154.98,medium,low,4,namecheap,,,09/09/2026 04:42
+770f52c1-c940-4c39-9784-956c47bd80a2,palaver.sex,available,69.98,154.98,medium,low,7,namecheap,,,23/09/2026 23:26
 95ce3152-b214-4d6d-8fc1-51da1fef30c1,sublunar.sex,available,69.98,154.98,medium,low,8,namecheap,,,12/08/2026 08:27
 99759659-8dd9-45f0-a60c-2d264347baf4,asur.sex,available,69.98,154.98,medium,low,4,namecheap,,,20/09/2026 16:43
 7506cc77-ecf9-48b4-b5bf-703c520b0f27,beatnik.sex,available,69.98,154.98,high,low,7,namecheap,,,22/09/2026 21:43
@@ -382,7 +391,7 @@ a283c15e-32c2-4852-b75c-c1d78fbf3eeb,entire.sex,available,69.98,154.98,high,low,
 f2f1e22a-2b83-49bc-9084-f81d0df3c1a2,crisply.sex,available,69.98,154.98,medium,low,7,namecheap,,,14/09/2026 09:37
 5cf66a61-9402-484e-a70b-5a1035124b3b,imaginable.sex,available,69.98,154.98,high,low,10,namecheap,,,23/09/2026 18:44
 60fe40d9-69d3-4931-b3a0-8375c5c5ddc3,conviction.sex,available,69.98,154.98,high,low,10,namecheap,,,24/09/2026 18:01
-80cb6783-990e-4d06-afbd-263f3b06e361,inmate.sex,available,69.98,154.98,high,low,6,namecheap,,,24/09/2026 18:00
+80cb6783-990e-4d06-afbd-263f3b06e361,inmate.sex,available,69.98,154.98,medium,low,6,namecheap,,,24/09/2026 18:00
 73fe9dc4-7f81-4148-a655-c18a63553053,peak.sex,available,69.98,154.98,high,medium,4,namecheap,,,24/09/2026 20:27
 079cc247-29ef-40f3-8c1f-30d1ccb559bb,scaly.sex,available,69.98,154.98,medium,low,5,namecheap,,,23/08/2026 00:05
 8cb7fdcc-eab9-4c80-8c4a-07f8eb75b1c8,repentant.sex,available,69.98,154.98,medium,low,9,namecheap,,,08/09/2026 14:32
@@ -398,9 +407,10 @@ c140501e-65d2-401b-81d9-5b6c2befaba0,speer.sex,available,69.98,154.98,high,low,5
 2c33f363-2c8e-4ccb-a57b-3e33868e7664,knotted.sex,available,69.98,154.98,medium,low,7,namecheap,,,20/08/2026 15:40
 9e746818-2dfd-444a-b9c2-fe71893794df,colorectal.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/08/2026 17:46
 fb4ee6ad-3c98-4583-890d-be88b6b64086,belfast.sex,available,69.98,154.98,high,low,7,namecheap,,,23/09/2026 04:55
+8ecf9325-151c-40b5-8424-0929219b4d2d,mainz.sex,available,69.98,154.98,high,low,5,namecheap,,,28/09/2026 03:51
 eba53e1e-db15-46ef-bf98-54d454a10eb8,seamless.sex,available,69.98,154.98,high,low,8,namecheap,,,10/09/2026 00:47
 c8f2e636-8a0a-40d7-ac69-ec7395c0fb76,spirant.sex,available,69.98,154.98,medium,low,7,namecheap,,,12/08/2026 23:20
-a435f04a-edf8-4336-9306-68e58ed788e0,launch.sex,available,69.98,154.98,high,medium,6,namecheap,,,25/09/2026 22:14
+a435f04a-edf8-4336-9306-68e58ed788e0,launch.sex,available,101.87,101.87,high,medium,6,dynadot,,,28/09/2026 02:59
 88bf30ea-b616-46e9-81ff-90aa3cc983b1,pushing.sex,available,154.98,,high,low,7,namecheap,,,
 02f0c92b-19c9-451b-bf76-333bf2aef71e,tired.sex,available,69.98,154.98,medium,low,5,namecheap,,,22/09/2026 16:41
 fddbcd20-cebf-42ac-8838-510c5273460d,amur.sex,available,69.98,154.98,high,low,4,namecheap,,,19/09/2026 00:13
@@ -411,21 +421,22 @@ c0363e8a-bfa7-427d-a0bc-232b49613633,swastika.sex,available,154.98,,medium,low,8
 6855dcfc-d68f-4530-a9ab-9eac148b8766,amia.sex,available,69.98,154.98,high,low,4,namecheap,,,18/09/2026 21:14
 eef0d5d7-b225-4c5e-9ae1-d964239a62cb,camwood.sex,available,69.98,154.98,medium,low,7,namecheap,,,17/09/2026 15:22
 b89fe122-7504-4053-99fa-0aa26639cc33,grabby.sex,available,69.98,154.98,medium,low,6,namecheap,,,07/08/2026 21:58
-1c8ca497-f39a-40ac-938e-3a69e78a2799,abkhaz.sex,available,69.98,154.98,high,low,6,namecheap,,,
+1c8ca497-f39a-40ac-938e-3a69e78a2799,abkhaz.sex,available,69.98,154.98,medium,low,6,namecheap,,,
 dc8d4646-792f-4c01-9e19-0ce6a37049d0,coulomb.sex,available,69.98,154.98,medium,low,7,namecheap,,,18/09/2026 23:08
 4130f154-a6be-4859-a71d-2f4839375417,desiccated.sex,available,69.98,154.98,medium,low,10,namecheap,,,14/08/2026 03:33
 75fb5dd3-2a90-46d0-803b-7b897832a77d,nevada.sex,available,154.98,,high,low,6,namecheap,,,
 6e8e5bf3-34d9-4a32-bade-12fa15523172,demonic.sex,available,69.98,154.98,medium,low,7,namecheap,,,14/08/2026 01:26
 f18e6c0b-a06f-47ee-b144-54d645b1659b,threats.sex,available,69.98,154.98,medium,low,7,namecheap,,,18/09/2026 23:54
 795d174d-a120-4100-b0fd-0b551d869f13,karl.sex,available,69.98,154.98,high,low,4,namecheap,,,25/09/2026 13:41
-0024750f-24a7-435b-b09a-579d9e93b974,recounting.sex,available,69.98,154.98,high,low,10,namecheap,,,11/09/2026 10:26
+0024750f-24a7-435b-b09a-579d9e93b974,recounting.sex,available,69.98,154.98,medium,low,10,namecheap,,,11/09/2026 10:26
 2aa636b5-055d-4bcb-91a5-811b108e9504,binful.sex,available,69.98,154.98,medium,low,6,namecheap,,,23/09/2026 17:14
 924316da-1d58-453a-b253-4174a3607731,mortified.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/08/2026 20:17
 4d1ed5ea-b7c6-415b-a6f6-8424da3292a2,breeds.sex,available,69.98,154.98,medium,low,6,namecheap,,,20/09/2026 01:09
 121b5425-7ea7-4d30-ae75-258e029fdab0,fraught.sex,available,69.98,154.98,medium,low,7,namecheap,,,18/08/2026 14:23
 6fc0d354-91c6-4d41-9f7b-b2fd20fa339a,ignited.sex,available,69.98,154.98,high,low,7,namecheap,,,17/08/2026 09:20
 63353bc2-c221-442b-b0f6-877aa30d4ccf,chancy.sex,available,69.98,154.98,medium,low,6,namecheap,,,12/08/2026 01:41
-5e55790f-4bc9-4b4d-8cdb-12d4455d3b36,judges.sex,available,154.98,,high,low,6,namecheap,,,
+5e55790f-4bc9-4b4d-8cdb-12d4455d3b36,judges.sex,available,154.98,,medium,low,6,namecheap,,,
+51bbe53a-3f37-48f9-a54c-4a707dcb3f68,prep.sex,available,99.99,189.99,high,low,4,godaddy,,,28/09/2026 02:07
 f53a319b-fb8e-4fc1-9ac8-874c3abe2d42,summoned.sex,available,154.98,,medium,low,8,namecheap,,,
 4b4ee991-2b46-4518-b3f4-5dad779ea01f,bosky.sex,available,69.98,154.98,medium,low,5,namecheap,,,10/08/2026 20:17
 1bc80a6f-0429-4df1-9759-827243dc90f0,conical.sex,available,69.98,154.98,high,low,7,namecheap,,,12/08/2026 20:41
@@ -461,8 +472,8 @@ f35cb252-6427-4921-a407-3c836c8cd2f1,sleek.sex,available,69.98,154.98,high,low,5
 cbb7f562-7f67-4285-a313-e936bdfabec4,agrestic.sex,available,69.98,154.98,medium,low,8,namecheap,,,
 5cc933cf-2cc0-4593-9311-a0cb3e2d59c9,adamant.sex,available,69.98,154.98,high,low,7,namecheap,,,
 cb93ee65-7c7e-4850-bafa-d40410b4205c,augur.sex,available,69.98,154.98,high,low,5,namecheap,,,21/09/2026 03:21
-73333215-a875-4fdb-97b7-33d348ae4731,distinctly.sex,available,69.98,154.98,high,low,10,namecheap,,,14/09/2026 13:19
-6d4004a0-0e7c-41c8-80ed-9726ddcfa62a,estonian.sex,available,69.98,154.98,high,low,8,namecheap,,,17/08/2026 13:27
+73333215-a875-4fdb-97b7-33d348ae4731,distinctly.sex,available,69.98,154.98,medium,low,10,namecheap,,,14/09/2026 13:19
+6d4004a0-0e7c-41c8-80ed-9726ddcfa62a,estonian.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/08/2026 13:27
 7a66a598-26da-4afb-b830-793b980ef9cf,ariose.sex,available,69.98,154.98,medium,low,6,namecheap,,,06/08/2026 19:19
 08827e74-4eba-4baa-a5c9-94d7fd5f0c06,sallow.sex,available,69.98,154.98,high,medium,6,namecheap,,,09/09/2026 20:56
 d7f146a6-30fb-4bf9-b997-aa405a3d35c0,dyke.sex,available,69.98,154.98,medium,low,4,namecheap,,,11/08/2026 11:35
@@ -477,9 +488,9 @@ a23ede2a-ed14-427d-b285-b24bcfecf554,seyhan.sex,available,69.98,154.98,medium,lo
 3a297d41-4e57-4981-ab5a-d9e966c1a83f,masses.sex,available,154.98,,high,low,6,namecheap,,,
 2920beba-7533-437d-9afe-ab0917e22042,dogsledding.sex,available,69.98,154.98,medium,low,11,namecheap,,,20/09/2026 01:02
 c0afbf0a-400e-4c37-892b-5bd026255323,audrey.sex,available,69.98,154.98,high,low,6,namecheap,,,25/09/2026 14:38
-79ef071e-862d-460e-be64-cfec6d777108,autostrada.sex,available,69.98,154.98,high,low,10,namecheap,,,21/09/2026 07:54
-42989763-6c5d-46be-8f15-50f849b3dce7,enlivened.sex,available,69.98,154.98,high,low,9,namecheap,,,17/08/2026 09:37
-a6ccf8cc-5b01-4171-893a-0a2d46284640,odour.sex,available,69.98,154.98,high,low,5,namecheap,,,20/09/2026 08:26
+79ef071e-862d-460e-be64-cfec6d777108,autostrada.sex,available,69.98,154.98,medium,low,10,namecheap,,,21/09/2026 07:54
+42989763-6c5d-46be-8f15-50f849b3dce7,enlivened.sex,available,69.98,154.98,medium,low,9,namecheap,,,17/08/2026 09:37
+a6ccf8cc-5b01-4171-893a-0a2d46284640,odour.sex,available,69.98,154.98,medium,low,5,namecheap,,,20/09/2026 08:26
 f0f0eee0-8157-45e9-b098-73b8f9bf20eb,palmatifid.sex,available,69.98,154.98,medium,low,10,namecheap,,,05/09/2026 00:03
 669cc62c-1512-4739-a8ca-c541d8c8af05,updated.sex,available,69.98,154.98,medium,low,7,namecheap,,,18/09/2026 06:09
 d26adb20-4f84-44e9-b49c-d4fb9334e14b,cosmogenic.sex,available,69.98,154.98,medium,low,10,namecheap,,,13/08/2026 03:00
@@ -497,6 +508,7 @@ a9c677f2-acae-4cd9-96cb-93cee47f04e5,entree.sex,available,179.99,179.99,high,low
 29248386-1d17-4fa1-9fc2-adc98971b028,solvable.sex,available,95.2,95.2,high,low,8,cloudflare,,,27/09/2026 12:17
 ce537f92-a4ee-4439-afdc-4747788e692b,taproom.sex,available,69.98,154.98,high,low,7,namecheap,,,22/09/2026 03:42
 c0540c27-d834-46b5-9f0e-3775a93ed3db,pedant.sex,available,69.98,154.98,medium,low,6,namecheap,,,09/09/2026 23:15
+d038fc2b-0a63-4178-b188-7c5da731f8b7,eternity.sex,available,99.99,189.99,high,low,8,godaddy,,,28/09/2026 01:51
 4e8bd483-b1ee-4908-89f5-e509c7267a73,prodigally.sex,available,69.98,154.98,low,low,10,namecheap,,,15/09/2026 21:38
 b70a34e8-6f58-4839-83e5-31287b28cc0a,tomboys.sex,available,69.98,154.98,low,low,7,namecheap,,,20/09/2026 23:15
 d41c17ca-0de9-4185-8794-e522a4ae6514,pith.sex,available,69.98,154.98,high,low,4,namecheap,,,14/09/2026 23:55
@@ -515,6 +527,7 @@ ef6854c0-a98e-4200-b746-7707e96ac3a7,fragmented.sex,available,69.98,154.98,mediu
 3a934548-5cdb-4c45-8961-687457061bfb,markoff.sex,available,69.98,154.98,medium,low,7,namecheap,,,19/09/2026 04:18
 4e620e0c-6598-4b2d-ae37-b37c1a7a7345,pretender.sex,available,69.98,154.98,high,low,9,namecheap,,,08/09/2026 19:12
 8bcc9e0c-ce33-4b88-b84f-0439356d0ded,unexampled.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/09/2026 09:24
+a0e99a10-683f-4be4-a247-54cd3e743068,willamette.sex,available,51.95,98.53,medium,low,10,spaceship,,,27/09/2026 16:20
 3aaf1294-98ac-4805-90fe-6f10fc6abb53,unmannered.sex,available,69.98,154.98,low,low,10,namecheap,,,08/08/2026 07:28
 31e8875d-775c-4a73-be91-88c1a3e99078,reputable.sex,available,69.98,154.98,high,low,9,namecheap,,,09/09/2026 14:45
 0d3e5fa7-4b8c-4729-8d09-566ec35f9d23,blindfold.sex,available,69.98,154.98,high,low,9,namecheap,,,10/08/2026 14:26
@@ -534,6 +547,7 @@ b129abaf-b675-4277-b87a-61f29da2208a,beam.sex,available,154.98,,high,medium,4,na
 bbe20e46-b107-47bb-8bbc-2fe80bf0cbcc,edental.sex,available,69.98,154.98,medium,low,7,namecheap,,,08/09/2026 15:42
 adde831d-0dcc-48e0-a82c-5f90e9263f51,trader.sex,available,154.98,,high,low,6,namecheap,,,
 abcba2ca-30bd-4e63-9649-eeaa0ee5c1f8,sanative.sex,available,69.98,154.98,medium,low,8,namecheap,,,
+58703069-84a8-44e3-ad8f-8b627d990f8d,est.sex,available,99.99,189.99,high,low,3,godaddy,,,28/09/2026 01:49
 8f310fab-12d9-4d1b-b941-e7efd24162a1,maidenly.sex,available,69.98,154.98,medium,low,8,namecheap,,,24/08/2026 13:14
 b361b060-54d4-4304-8594-1eacf8f061ef,propertied.sex,available,69.98,154.98,medium,low,10,namecheap,,,09/09/2026 03:34
 72c4d388-489d-4492-84e0-31d6dfdbda78,atole.sex,available,69.98,154.98,medium,low,5,namecheap,,,20/09/2026 21:52
@@ -550,13 +564,14 @@ b82975d9-875a-40c4-930e-ccb2db9745bb,switches.sex,available,69.98,154.98,medium,
 f0e6c207-564f-4b19-bbe2-a0ecca890e84,beguine.sex,available,69.98,154.98,medium,low,7,namecheap,,,23/09/2026 02:59
 8ff190b0-4e34-4fdd-91dd-8691bf060f8d,annapurna.sex,available,69.98,154.98,medium,low,9,namecheap,,,19/09/2026 02:23
 ba8e9662-8a1b-40fa-961c-d09d023a58ec,rudderless.sex,available,69.98,154.98,medium,low,10,namecheap,,,
-e43948f3-6d8f-4ff5-9e1a-90317c4277b6,armour.sex,available,69.98,154.98,high,low,6,namecheap,,,20/09/2026 07:22
+e43948f3-6d8f-4ff5-9e1a-90317c4277b6,armour.sex,available,69.98,154.98,medium,low,6,namecheap,,,20/09/2026 07:22
 eb3affdf-0f7d-48b4-8dd9-851436d8f0be,allergy.sex,available,154.98,,high,low,7,namecheap,,,
 33a22c09-2fce-41c5-a2db-87cab53a3dde,patientcare.sex,available,154.98,,high,low,11,namecheap,,,
 d51788d7-618d-44b2-9a53-a58c1ff9d51e,often.sex,available,154.98,,high,low,5,namecheap,,,
 c9d8f7e0-849c-4e70-af0c-c26f12133e15,unhatched.sex,available,69.98,154.98,medium,low,9,namecheap,,,12/09/2026 12:05
+755314ab-12e6-4016-80d6-a05d66b208b1,marrying.sex,available,101.87,101.87,high,low,8,dynadot,,,27/09/2026 17:47
 fd4bef42-645e-4176-8e52-3c895288cca7,executives.sex,available,69.98,154.98,high,low,10,namecheap,,,21/09/2026 01:35
-be9cab28-58f4-440a-b653-54bfd246260e,licking.sex,available,69.98,154.98,high,low,7,namecheap,,,13/09/2026 11:11
+be9cab28-58f4-440a-b653-54bfd246260e,licking.sex,available,69.98,154.98,medium,low,7,namecheap,,,13/09/2026 11:11
 2938873d-3310-49d7-a16f-9c598fe3328c,ocher.sex,available,69.98,154.98,medium,low,5,namecheap,,,04/09/2026 00:31
 d28b4958-5353-4c28-aa53-812686f3bb8a,persistent.sex,available,69.98,154.98,high,low,10,namecheap,,,14/08/2026 14:58
 544898ab-aecd-45e5-b5d4-6033525d4ff9,hip.sex,available,69.98,154.98,high,low,3,namecheap,,,21/08/2026 06:45
@@ -572,6 +587,7 @@ acd771f5-ab08-48e8-8c99-b4a1afc267d6,vietnamese.sex,available,69.98,154.98,high,
 28d020ff-835b-472e-a2b4-8bc4bed0f9a9,filming.sex,available,154.98,,high,low,7,namecheap,,,
 9eade43d-6996-425f-b345-f0e1d9fe84ef,melted.sex,available,69.98,154.98,high,low,6,namecheap,,,23/08/2026 23:37
 4fcaa43d-a12d-442e-8f69-86b59cbde830,classroom.sex,available,154.98,,high,low,9,namecheap,,,
+57e9cdd4-7142-4987-a2ec-d549eccd27bc,symptoms.sex,available,95.2,95.2,medium,low,8,cloudflare,,,27/09/2026 22:08
 6d09b30e-5296-49f0-8436-fc0f98a12ff9,nominated.sex,available,69.98,154.98,high,low,9,namecheap,,,03/09/2026 18:18
 4ef0ca42-14d7-4d0c-90ff-15e187e098dd,darkish.sex,available,179.99,179.99,medium,low,7,name.com,,,13/08/2026 18:14
 82f8d3b8-562c-4998-a758-baf61d04d140,exhibit.sex,available,69.98,154.98,high,low,7,namecheap,,,27/09/2026 05:10
@@ -580,8 +596,8 @@ e1a2c952-a75a-49da-aadb-46f9c26ca411,walking.sex,available,154.98,,high,low,7,na
 58751807-b370-4757-9e59-e206e31a4cd7,unhinged.sex,available,69.98,154.98,medium,low,8,namecheap,,,11/08/2026 01:52
 97ca4fac-be6f-4592-95c8-729f83028dff,horny.sex,resell,,,high,low,5,"Name.com, Inc.",09/06/2017 14:25,09/06/2027 14:25,26/09/2026 06:43
 d07e805f-c70e-495d-a854-0ac32ad44fef,auditor.sex,available,69.98,154.98,high,low,7,namecheap,,,21/09/2026 01:32
-7757df6e-fd2e-46b4-9743-bd09a7b8a078,adobo.sex,available,69.98,154.98,high,low,5,namecheap,,,17/09/2026 09:29
-1034a5ad-59cd-4dd2-877a-db23927cd59f,nonlinear.sex,available,69.98,154.98,high,low,9,namecheap,,,03/09/2026 19:44
+7757df6e-fd2e-46b4-9743-bd09a7b8a078,adobo.sex,available,69.98,154.98,medium,low,5,namecheap,,,17/09/2026 09:29
+1034a5ad-59cd-4dd2-877a-db23927cd59f,nonlinear.sex,available,69.98,154.98,medium,low,9,namecheap,,,03/09/2026 19:44
 ae778dd3-17cb-46f8-8280-a807fed4ec2b,remaining.sex,available,69.98,154.98,high,low,9,namecheap,,,22/08/2026 22:43
 7f037182-7615-422d-9035-a6769e03f164,sweetie.sex,resell,,,high,low,7,"GoDaddy.com, LLC",21/05/2026 09:10,21/05/2027 09:10,26/09/2026 09:27
 158c1b8c-04b0-4b72-b37a-1b355f545add,proves.sex,available,69.98,154.98,medium,low,6,namecheap,,,18/09/2026 07:04
@@ -606,17 +622,18 @@ e3c0cae8-affa-4a4b-9a15-5516add899e7,anomaly.sex,available,69.98,154.98,high,low
 74741f2f-4bb4-4962-a458-244e3a7af1a8,coltsfoot.sex,available,69.98,154.98,medium,low,9,namecheap,,,23/09/2026 01:58
 c50ca5d0-7497-4cd2-b9a0-ac6d8a24feca,connatural.sex,available,69.98,154.98,medium,low,10,namecheap,,,12/08/2026 22:18
 69ba517e-9b93-4691-8939-d204d62f93df,scary.sex,available,69.98,154.98,high,low,5,namecheap,,,12/08/2026 05:23
-930dc1ec-80d7-48b9-9249-de58477948f6,caldwell.sex,available,69.98,154.98,high,low,8,namecheap,,,25/09/2026 03:55
+930dc1ec-80d7-48b9-9249-de58477948f6,caldwell.sex,available,69.98,154.98,medium,low,8,namecheap,,,25/09/2026 03:55
 5418cfcd-93bf-40aa-9cd1-0f9485ecdd10,unfounded.sex,available,69.98,154.98,medium,low,9,namecheap,,,08/08/2026 21:57
 e9b7253b-7e9e-42ee-bf08-daa982e7034f,variably.sex,available,69.98,154.98,medium,low,8,namecheap,,,16/09/2026 10:46
 250c64e0-b234-431b-b82d-0017d9bf3d11,stimulated.sex,available,69.98,154.98,medium,low,10,namecheap,,,10/09/2026 20:42
-e2a27d40-cb11-4274-9a62-b05ef1a2277c,perplex.sex,available,69.98,154.98,high,low,7,namecheap,,,21/09/2026 17:26
+e2a27d40-cb11-4274-9a62-b05ef1a2277c,perplex.sex,available,69.98,154.98,medium,low,7,namecheap,,,21/09/2026 17:26
 6a2de1c8-a98b-475a-9a6a-ccae3f0ac5be,realised.sex,available,69.98,154.98,high,low,8,namecheap,,,23/09/2026 17:33
 ab53a4eb-b591-49cf-aead-db426bbc617d,absently.sex,available,69.98,154.98,medium,low,8,namecheap,,,13/09/2026 16:41
 811edce3-27ab-4f98-a666-6370a2abb56a,overhasty.sex,available,69.98,154.98,medium,low,9,namecheap,,,04/09/2026 20:44
 d435f465-46e7-4e59-84eb-7d6f4c1f413e,aztecan.sex,available,69.98,154.98,high,low,7,namecheap,,,21/09/2026 11:37
 8ac739d1-b794-4323-b1d2-a2865d55ced2,gum.sex,available,69.98,154.98,high,low,3,namecheap,,,24/09/2026 14:25
 0e7c2b52-484a-46fd-a953-dbf46e3fd2ef,compare.sex,available,69.98,154.98,high,low,7,namecheap,,,24/09/2026 16:43
+39792304-22c7-445c-b35f-a02c2f9df2cc,usgs.sex,available,95.2,95.2,medium,low,4,cloudflare,,,28/09/2026 03:54
 9138de40-b5e5-44e7-abf6-7f893d755967,amundsen.sex,available,69.98,154.98,medium,low,8,namecheap,,,19/09/2026 00:12
 9e879009-f7ba-424d-9575-2d1343b4f19e,vegetable.sex,available,154.98,,high,low,9,namecheap,,,
 075105c3-9976-4ef4-8ef5-4dded4a9417d,playfully.sex,available,69.98,154.98,high,low,9,namecheap,,,15/09/2026 20:25
@@ -629,6 +646,7 @@ e0fe2e8e-857c-4a09-9e67-66cfbddfa884,invertible.sex,available,69.98,154.98,mediu
 b632156b-f2f4-4052-9337-c4a83619ba8d,cursory.sex,available,69.98,154.98,medium,low,7,namecheap,,,13/08/2026 11:41
 f50fa13d-8f9d-4bb9-880f-6ff70a1a19bc,plastic.sex,available,69.98,154.98,high,low,7,namecheap,,,25/09/2026 21:21
 93d3583b-6284-40f3-8ce8-0783459942cd,sublimed.sex,available,69.98,154.98,medium,low,8,namecheap,,,11/09/2026 00:03
+55e92b8d-bcc9-482b-8687-04911084bf31,evansville.sex,available,99.99,189.99,medium,low,10,godaddy,,,28/09/2026 01:52
 62942181-1428-477f-ab7b-4baa90abaa3e,noon.sex,available,154.98,,high,low,4,namecheap,,,
 c4962e0e-e168-4e35-9141-66a1f5633494,glistening.sex,available,69.98,154.98,high,low,10,namecheap,,,20/08/2026 14:30
 52d85112-f0ec-4e21-ab19-d1f845abddbb,adamance.sex,available,69.98,154.98,medium,low,8,namecheap,,,17/09/2026 06:15
@@ -647,7 +665,7 @@ ec7ffe9d-24be-42eb-824d-25a1aefb8109,sordid.sex,available,69.98,154.98,medium,lo
 bedf532c-25e3-4d71-b884-5ba24ff33c40,negroid.sex,available,69.98,154.98,medium,low,7,namecheap,,,03/09/2026 15:14
 dd678361-4c67-4f46-8de2-0bff3486e2a9,presents.sex,available,69.98,154.98,high,low,8,namecheap,,,08/09/2026 04:30
 1bbb2d66-c5f4-42d4-990f-3406052a4d7c,dotted.sex,available,179.99,179.99,medium,low,6,name.com,,,13/08/2026 18:28
-69d957d7-47ee-4d8c-aedd-1bede7471bb8,molding.sex,available,179.99,179.99,high,low,7,name.com,,,24/09/2026 15:24
+69d957d7-47ee-4d8c-aedd-1bede7471bb8,molding.sex,available,179.99,179.99,medium,low,7,name.com,,,24/09/2026 15:24
 1702160b-5148-4f13-a2a9-9ee7d2b2d0df,conquering.sex,available,69.98,154.98,high,low,10,namecheap,,,24/09/2026 17:24
 bdb4b42c-39ac-44cd-8023-a5969660bebf,smoky.sex,available,69.98,154.98,medium,low,5,namecheap,,,10/09/2026 11:59
 9d702946-bd5d-41c4-b1d0-fc160311c187,tweedy.sex,available,69.98,154.98,medium,low,6,namecheap,,,21/08/2026 11:21
@@ -659,8 +677,9 @@ c9ef6c20-aca0-467b-b21e-aab8ee9da050,beth.sex,available,69.98,154.98,medium,low,
 aa5998ec-06fb-4e60-a397-54b45d5f47fe,reformist.sex,available,69.98,154.98,high,medium,9,namecheap,,,09/09/2026 12:42
 fbff5306-6388-463e-a535-410c7cbfdb8e,milliliter.sex,available,69.98,154.98,medium,low,10,namecheap,,,11/08/2026 22:53
 914adc26-d619-4c90-abaf-e3432449b7d9,hedge.sex,available,154.98,,high,low,5,namecheap,,,
+74ecd2ca-3cdd-49e8-a52a-291bab237ea0,feldman.sex,available,95.2,95.2,medium,low,7,cloudflare,,,27/09/2026 20:17
 c0e813e4-2e36-4bfa-9070-46d889bdabf8,confined.sex,available,69.98,154.98,medium,low,8,namecheap,,,11/08/2026 18:20
-1f4f44fd-7eca-44c8-8e2a-0a226502c550,seeing.sex,available,154.98,,high,low,6,namecheap,,,
+1f4f44fd-7eca-44c8-8e2a-0a226502c550,seeing.sex,available,51.95,98.53,high,low,6,spaceship,,,27/09/2026 19:35
 27fa1a2d-3337-435d-b140-3a9eb3754ae1,auxetic.sex,available,69.98,154.98,medium,low,7,namecheap,,,07/08/2026 21:28
 d36dd4ab-62d1-4199-855d-c7fa94067e6c,misused.sex,available,69.98,154.98,medium,low,7,namecheap,,,25/08/2026 01:56
 54b3e3e2-5cb9-4f1e-a4cb-8647bb0b8702,orbicular.sex,available,69.98,154.98,medium,low,9,namecheap,,,08/08/2026 10:11
@@ -673,7 +692,7 @@ d36dd4ab-62d1-4199-855d-c7fa94067e6c,misused.sex,available,69.98,154.98,medium,l
 1a920afc-6426-49b1-a82a-2a45157c0c74,allometry.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/09/2026 11:57
 d4ac9804-ae74-41f2-8f97-93827850edcd,cuban.sex,available,69.98,154.98,high,low,5,namecheap,,,13/08/2026 09:47
 ebea36a2-835f-4df1-99bd-cc9d5f760215,agene.sex,available,69.98,154.98,medium,low,5,namecheap,,,17/09/2026 17:07
-53278495-894d-443f-8c28-ede435e429ca,dorothy.sex,available,69.98,154.98,high,low,7,namecheap,,,25/09/2026 14:18
+53278495-894d-443f-8c28-ede435e429ca,dorothy.sex,available,69.98,154.98,medium,low,7,namecheap,,,25/09/2026 14:18
 371531fd-963a-4b84-8c8a-e91a0b49cbba,sunken.sex,available,69.98,154.98,medium,low,6,namecheap,,,13/08/2026 22:55
 ddd7d2cd-6520-474b-a8d3-5783df4a9351,feverish.sex,available,69.98,154.98,medium,low,8,namecheap,,,18/08/2026 00:29
 2a736725-8a23-4143-a184-093d18d00062,louise.sex,available,69.98,154.98,high,low,6,namecheap,,,25/09/2026 13:47
@@ -693,13 +712,13 @@ fbbd7ad6-b790-4af8-a4b1-594e29cc5926,preferred.sex,available,69.98,154.98,high,l
 ff4a811a-2d8f-4323-93b5-19907d62a127,academism.sex,available,179.99,179.99,medium,low,9,name.com,,,16/09/2026 20:23
 e859b707-bab1-4f0e-a9dd-7bdd2cc082b2,terrified.sex,available,69.98,154.98,medium,low,9,namecheap,,,27/09/2026 02:38
 c660bfde-9816-4457-9f21-31b6ceb2eac7,agonising.sex,available,69.98,154.98,medium,low,9,namecheap,,,
-61c241c1-0970-4a50-90a8-f23189b71c12,arawak.sex,available,69.98,154.98,high,low,6,namecheap,,,06/08/2026 12:38
+61c241c1-0970-4a50-90a8-f23189b71c12,arawak.sex,available,69.98,154.98,medium,low,6,namecheap,,,06/08/2026 12:38
 3aefd86f-e48f-4781-8b7f-01fea18f07f9,brace.sex,available,69.98,154.98,high,low,5,namecheap,,,11/08/2026 00:41
 7572c162-c805-40d0-88fb-134b066fdd83,laborer.sex,available,154.98,,high,low,7,namecheap,,,
 6f36d572-7210-45d5-a276-c8cd55103de7,road.sex,available,154.98,,high,low,4,namecheap,,,
 3e6af2b7-f982-4775-8eaa-c0dec7982c1b,asinine.sex,available,69.98,154.98,low,low,7,namecheap,,,07/08/2026 02:34
 6d29c339-e1c2-44f2-9725-9c5954edefc4,hussy.sex,available,69.98,154.98,medium,low,5,namecheap,,,17/09/2026 10:20
-2e2e1efd-3ecf-4b5b-b4ba-35eb929f5a76,dismay.sex,available,154.98,,high,low,6,namecheap,,,
+2e2e1efd-3ecf-4b5b-b4ba-35eb929f5a76,dismay.sex,available,154.98,,medium,low,6,namecheap,,,
 384d9514-28fd-43eb-a960-5626e620d40c,unweaned.sex,available,69.98,154.98,low,low,8,namecheap,,,12/09/2026 22:29
 92149859-891c-4ec7-931c-095463472b33,quarterly.sex,available,69.98,154.98,high,low,9,namecheap,,,09/09/2026 07:37
 ce35f573-84fb-4282-9de0-7e32fbed04e1,overbold.sex,available,69.98,154.98,medium,low,8,namecheap,,,04/09/2026 20:21
@@ -726,12 +745,12 @@ a030a23b-862b-4466-a558-7e59b196993c,yoruba.sex,available,69.98,154.98,high,low,
 4cada8ca-11c3-46f2-950a-fac6ac60fd35,lithuanian.sex,available,69.98,154.98,high,low,10,namecheap,,,24/08/2026 07:30
 6067aebe-2eee-4c7c-92fb-091359efcf97,eric.sex,available,69.98,154.98,high,medium,4,namecheap,,,25/09/2026 11:25
 8befccc3-c4f6-4e90-b460-8e0f792b4b80,lovingly.sex,available,69.98,154.98,high,low,8,namecheap,,,14/09/2026 19:14
-876dea1a-ea44-4248-a8e3-9886b1283efa,amoeba.sex,available,69.98,154.98,high,low,6,namecheap,,,18/09/2026 17:41
+876dea1a-ea44-4248-a8e3-9886b1283efa,amoeba.sex,available,69.98,154.98,medium,low,6,namecheap,,,18/09/2026 17:41
 a9131120-cf54-46e5-b2bf-2285652ae53b,postcards.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/09/2026 23:33
 154d65cf-fb68-4534-b422-164bb6478f9d,avenger.sex,available,69.98,154.98,high,low,7,namecheap,,,21/09/2026 08:56
 93511745-be1f-4ce9-bbc9-b496f802defc,orchestra.sex,available,154.98,,high,low,9,namecheap,,,
 529f62d3-28dc-4ed0-80fc-fb5bd65599c4,organizer.sex,available,69.98,154.98,high,low,9,namecheap,,,20/09/2026 08:45
-d00cbe97-1e8a-4ac4-8710-949955d19763,elderberry.sex,available,69.98,154.98,high,low,10,namecheap,,,24/09/2026 00:39
+d00cbe97-1e8a-4ac4-8710-949955d19763,elderberry.sex,available,69.98,154.98,medium,low,10,namecheap,,,24/09/2026 00:39
 f6eed67d-179d-4afb-83b9-92c9efec83a6,antonym.sex,available,69.98,154.98,medium,low,7,namecheap,,,04/09/2026 16:48
 2a1ab282-dd8c-4fc4-8f07-f516b57c1ca8,blackjack.sex,available,69.98,154.98,high,low,9,namecheap,,,24/09/2026 00:44
 40a7e03e-c914-43ab-aa78-0e22ac09b7b8,asea.sex,available,69.98,154.98,medium,low,4,namecheap,,,10/09/2026 01:04
@@ -743,7 +762,7 @@ a250c3c4-ef67-4078-8ffc-32c69064d6c9,reginald.sex,available,69.98,154.98,high,lo
 0aad42ee-9870-4599-bce4-9b851aecea23,bulimic.sex,available,69.98,154.98,medium,low,7,namecheap,,,11/08/2026 08:26
 b8a4e3de-2af0-48d0-b63d-59fd54aab09e,compton.sex,available,69.98,154.98,high,low,7,namecheap,,,20/09/2026 10:47
 98916d99-e548-4549-ac23-34104d494e1a,manageable.sex,available,69.98,154.98,high,low,10,namecheap,,,21/09/2026 15:48
-6fa73778-9e3e-49cf-96a3-f1cf783cc6be,shahn.sex,available,179.99,179.99,high,low,5,name.com,,,23/09/2026 07:28
+6fa73778-9e3e-49cf-96a3-f1cf783cc6be,shahn.sex,available,179.99,179.99,medium,low,5,name.com,,,23/09/2026 07:28
 d6963df9-cf8c-44d4-92f7-bec32cfc69c8,backchat.sex,available,69.98,154.98,medium,low,8,namecheap,,,21/09/2026 15:20
 05392f82-ae46-4331-b56f-e6d8a4025984,jackie.sex,available,69.98,154.98,high,low,6,namecheap,,,25/09/2026 13:22
 092c1e09-f24b-46ec-a32c-92f975f41102,cells.sex,available,154.98,,high,low,5,namecheap,,,
@@ -753,11 +772,11 @@ d6963df9-cf8c-44d4-92f7-bec32cfc69c8,backchat.sex,available,69.98,154.98,medium,
 8170486a-03e9-486d-9b6d-75ddb50c223a,mesic.sex,available,69.98,154.98,medium,low,5,namecheap,,,24/08/2026 21:11
 73c3293f-594f-43f4-a7c4-9465126b7fbc,bracing.sex,available,69.98,154.98,high,low,7,namecheap,,,11/08/2026 00:30
 49b0f909-9d1b-4543-9dd9-0311d83359ef,unclean.sex,available,69.98,154.98,medium,low,7,namecheap,,,14/08/2026 09:12
-cb0d2021-e501-4bfe-ba93-d3a83793fb3e,computable.sex,available,69.98,154.98,high,low,10,namecheap,,,12/08/2026 19:42
+cb0d2021-e501-4bfe-ba93-d3a83793fb3e,computable.sex,available,51.95,98.53,high,low,10,spaceship,,,28/09/2026 02:42
 938d1e5d-7915-4cb5-9fec-b7c36134abcc,accusation.sex,available,154.98,,high,low,10,namecheap,,,
 5faec295-9d0f-43f7-be1f-32264d45bff0,vaporous.sex,available,69.98,154.98,medium,low,8,namecheap,,,12/08/2026 14:34
 e99c9326-9c32-4d63-a4d2-9d760535011a,monacan.sex,available,69.98,154.98,medium,low,7,namecheap,,,25/08/2026 04:01
-61abf363-34e6-412c-ae46-4f49969677c9,surfers.sex,available,69.98,154.98,high,low,7,namecheap,,,20/09/2026 02:01
+61abf363-34e6-412c-ae46-4f49969677c9,surfers.sex,available,69.98,154.98,medium,low,7,namecheap,,,20/09/2026 02:01
 c1eb8764-a0e8-44d6-af65-39c1d4a3e473,gallery.sex,resell,,,high,low,7,"Name.com, Inc.",09/06/2017 14:25,09/06/2027 14:25,26/09/2026 06:18
 b3b1aa47-32e6-4fb9-afb1-faf9759cec6e,traduce.sex,available,69.98,154.98,medium,low,7,namecheap,,,24/08/2026 14:06
 6f936cc9-b881-48ac-995d-4deb1bd5153b,crazily.sex,available,69.98,154.98,medium,low,7,namecheap,,,14/09/2026 09:15
@@ -765,7 +784,7 @@ b3b1aa47-32e6-4fb9-afb1-faf9759cec6e,traduce.sex,available,69.98,154.98,medium,l
 274ec009-5da3-4d35-a027-1639f164ba49,infective.sex,available,69.98,154.98,medium,low,9,namecheap,,,22/08/2026 04:14
 0a06f7ee-ed10-4990-871a-a9d0bed4907c,advised.sex,available,69.98,154.98,high,low,7,namecheap,,,23/09/2026 07:10
 dc2a3786-0037-46d7-a8fd-f04e12e98327,cohesive.sex,available,69.98,154.98,high,low,8,namecheap,,,12/08/2026 16:05
-77fc6de0-4a94-4405-bfa2-43d6d6419932,babu.sex,available,69.98,154.98,high,low,4,namecheap,,,21/09/2026 12:51
+77fc6de0-4a94-4405-bfa2-43d6d6419932,babu.sex,available,69.98,154.98,medium,low,4,namecheap,,,21/09/2026 12:51
 231dccf0-757f-49ed-999c-d4a06759ff60,ampersand.sex,available,69.98,154.98,high,low,9,namecheap,,,18/09/2026 23:09
 9a2dee36-ad3b-41fe-b0ee-0d5b9245c59a,condiment.sex,available,154.98,,high,low,9,namecheap,,,
 2947eaf5-2f4c-4eeb-81cf-19c30924172d,imaginary.sex,available,69.98,154.98,high,low,9,namecheap,,,21/08/2026 20:16
@@ -779,7 +798,7 @@ a8ac769d-ee62-49aa-b17d-d434114cc38d,fairness.sex,available,69.98,154.98,high,lo
 dfbd8244-cc07-462b-8933-4f2cb5020cfd,bagpipe.sex,available,69.98,154.98,high,low,7,namecheap,,,21/09/2026 18:26
 12a9743d-9ad8-4a75-b094-a1d45edbccb5,alternate.sex,available,69.98,154.98,high,low,9,namecheap,,,22/09/2026 02:29
 a2d5fe68-d1ff-43d2-b621-23c290100217,fleming.sex,available,179.99,179.99,high,low,7,name.com,,,18/09/2026 05:49
-00228b1b-0276-48f0-bcac-de64a1e8ed0a,gratuitous.sex,available,69.98,154.98,high,low,10,namecheap,,,13/08/2026 03:14
+00228b1b-0276-48f0-bcac-de64a1e8ed0a,gratuitous.sex,available,69.98,154.98,medium,low,10,namecheap,,,13/08/2026 03:14
 91eee746-a604-4e45-81c6-b85b78ba531f,luggage.sex,available,154.98,,high,low,7,namecheap,,,
 f7870654-595a-4602-9002-dcc8be1bdd7b,accent.sex,available,69.98,154.98,high,low,6,namecheap,,,16/09/2026 21:50
 228188c6-1ee7-4a9d-b600-3bf4ff462bfc,fetid.sex,available,69.98,154.98,medium,low,5,namecheap,,,18/08/2026 02:24
@@ -802,6 +821,7 @@ ae727a79-ad2d-40cb-bea0-5261e0e670ba,tofu.sex,available,69.98,154.98,high,low,4,
 b23d5c24-4612-446c-aac0-d9442d082ae4,lithe.sex,available,69.98,154.98,high,low,5,namecheap,,,24/08/2026 00:26
 846541ae-99e2-494b-b0ff-6ca59523e07e,chasing.sex,available,69.98,154.98,high,low,7,namecheap,,,27/09/2026 06:54
 f4efb17c-34d1-417c-b2fa-227f674d1313,rosebush.sex,available,69.98,154.98,high,medium,8,namecheap,,,09/09/2026 18:41
+8adfb7ea-40ed-464d-815f-9459a010d1c1,padua.sex,available,69.98,154.98,medium,low,5,namecheap,,,27/09/2026 15:08
 d3890d46-b8f2-4ed5-926e-fdc85c4cc0c4,writer.sex,available,69.98,154.98,high,low,6,namecheap,,,21/09/2026 05:09
 8323ed8f-804f-4980-ae25-aa100e768157,midweek.sex,available,69.98,154.98,high,low,7,namecheap,,,13/09/2026 09:34
 d1c8c548-155a-443d-a3a7-21efe23a6ed7,greenville.sex,available,69.98,154.98,high,low,10,namecheap,,,25/09/2026 06:42
@@ -851,14 +871,16 @@ d4c028fb-f84c-494c-8bca-70a246ab43fc,storyteller.sex,available,154.98,,high,low,
 7f246d79-edfd-4e42-ade6-86755184a879,biblical.sex,available,69.98,154.98,medium,low,8,namecheap,,,09/08/2026 18:53
 e9aa1992-c763-46cb-9f66-6f4eaa08cc47,oxygen.sex,available,154.98,,high,low,6,namecheap,,,
 97244557-3ba6-4088-b049-e691030076fa,layman.sex,available,69.98,154.98,medium,low,6,namecheap,,,10/09/2026 01:24
-96571bfd-6ecf-45ec-85a8-cd1e489b6fa2,saving.sex,available,154.98,,high,low,6,namecheap,,,
+96571bfd-6ecf-45ec-85a8-cd1e489b6fa2,saving.sex,available,69.98,154.98,high,low,6,namecheap,,,27/09/2026 18:08
 db39230a-7f28-4d78-bc48-dd7fb3b24096,obscurity.sex,available,69.98,154.98,high,low,9,namecheap,,,16/09/2026 18:33
+7316f426-76fd-4af5-a307-13ee5dd8af7f,proposition.sex,available,51.95,98.53,high,low,11,spaceship,,,28/09/2026 03:24
 94b84a4f-238c-46c7-8008-d5af9f8f3aa5,palpatory.sex,available,69.98,154.98,medium,low,9,namecheap,,,05/09/2026 00:12
 f614f4d4-c3c6-4f7f-be28-d76e0d7b086f,alb.sex,available,69.98,154.98,high,low,3,namecheap,,,18/09/2026 02:20
 5eb6c765-707f-4b5b-a271-553004daf535,uncanny.sex,available,69.98,154.98,high,low,7,namecheap,,,16/08/2026 02:23
 6ca99b50-1ea3-46b7-b0f0-2ec2a4d0a119,ironical.sex,available,69.98,154.98,medium,low,8,namecheap,,,22/08/2026 10:06
 b93308b8-c565-4cb8-b062-26af10dca0f3,unstuck.sex,available,69.98,154.98,medium,low,7,namecheap,,,12/09/2026 20:40
 59b92591-03af-4df2-8c5a-3a4d96ed4513,basle.sex,available,69.98,154.98,medium,low,5,namecheap,,,22/09/2026 10:14
+e8827a1e-7e42-475f-b56a-85f7d9a8e4c3,joyce.sex,available,95.2,95.2,high,low,5,cloudflare,,,27/09/2026 14:23
 12d60c61-6a2d-4133-b000-9b26efbc7aec,conversation.sex,available,,,high,low,12,,,,26/09/2026 00:44
 73e9c822-d74f-4474-b451-391bf571c458,answerer.sex,available,69.98,154.98,medium,low,8,namecheap,,,19/09/2026 12:14
 7b864ede-b0a2-45e4-96f3-2494fee6fcee,goosey.sex,available,69.98,154.98,medium,low,6,namecheap,,,14/08/2026 16:06
@@ -889,7 +911,7 @@ d1f082a4-6088-4035-88ac-c74bff48d3c1,backstage.sex,available,69.98,154.98,high,l
 74fbf612-20ae-42c6-8638-effdebf3c01b,drumhead.sex,available,69.98,154.98,medium,low,8,namecheap,,,14/08/2026 20:15
 11e3eae5-a301-43b1-9f76-202954c16a83,skyway.sex,available,69.98,154.98,high,low,6,namecheap,,,17/09/2026 22:32
 e66838ea-8610-4415-9a51-927ca862d1af,jetting.sex,available,69.98,154.98,high,low,7,namecheap,,,22/08/2026 13:09
-a2ad9d41-5fb3-4500-a9c6-6617cb1b7387,balancer.sex,available,69.98,154.98,high,low,8,namecheap,,,21/09/2026 20:52
+a2ad9d41-5fb3-4500-a9c6-6617cb1b7387,balancer.sex,available,69.98,154.98,medium,low,8,namecheap,,,21/09/2026 20:52
 5cd7f7d2-3684-4117-8af6-a3fee69cb102,worship.sex,available,69.98,154.98,high,low,7,namecheap,,,17/09/2026 09:43
 bea08968-c6ed-43ee-9e98-7baa1a515675,dye.sex,available,154.98,,high,low,3,namecheap,,,
 9b8a218a-69cb-4e21-8670-26ae7a5ee884,fenestral.sex,available,69.98,154.98,medium,low,9,namecheap,,,18/08/2026 01:09
@@ -905,7 +927,7 @@ f8db3507-0dcb-42bd-9e7f-c8da87fee1a0,gist.sex,available,69.98,154.98,high,low,4,
 e8c8d4dc-3b59-4a5f-ac77-5d8eb5c5ed75,projection.sex,available,69.98,154.98,high,low,10,namecheap,,,22/08/2026 14:54
 e33f78f2-d99b-4c0e-a21d-31c1e996636b,allegation.sex,available,69.98,154.98,high,low,10,namecheap,,,18/09/2026 10:09
 8b097056-30d9-400c-b6ea-e61a011fe72f,untended.sex,available,69.98,154.98,medium,low,8,namecheap,,,12/09/2026 21:11
-58caf014-921f-42f9-8573-1daccde73f9e,amputation.sex,available,179.99,179.99,high,low,10,name.com,,,18/09/2026 23:52
+58caf014-921f-42f9-8573-1daccde73f9e,amputation.sex,available,179.99,179.99,medium,low,10,name.com,,,18/09/2026 23:52
 d1845227-63e0-40f5-8f63-89ca781d623b,twentieth.sex,available,69.98,154.98,high,low,9,namecheap,,,21/09/2026 12:27
 226f343a-6144-49c6-ac6e-ccb1aadb91aa,dopy.sex,available,69.98,154.98,low,low,4,namecheap,,,14/08/2026 16:02
 a3dc7787-e85d-420b-bd2d-35f83a3b77c7,slavery.sex,available,69.98,154.98,high,low,7,namecheap,,,10/09/2026 10:30
@@ -926,7 +948,7 @@ b01556fd-0773-4f4b-9f7f-184099e82b86,graduated.sex,available,69.98,154.98,high,l
 7e6a199c-a3b5-48cc-8881-87fccd992da8,trophy.sex,available,154.98,,high,low,6,namecheap,,,
 4b5cbbb2-2479-4679-a3b1-78f9cf1a3bad,outsized.sex,available,69.98,154.98,medium,low,8,namecheap,,,04/09/2026 19:40
 b3170de6-ef34-4156-9295-3e729ba2f9e1,islands.sex,available,154.98,,high,low,7,namecheap,,,
-81bed5de-248c-4621-b0f7-124676f299c0,gusty.sex,available,69.98,154.98,high,low,5,namecheap,,,20/08/2026 21:10
+81bed5de-248c-4621-b0f7-124676f299c0,gusty.sex,available,69.98,154.98,medium,low,5,namecheap,,,20/08/2026 21:10
 fcfb8730-5f4c-4bba-9157-7fa249e72622,procurable.sex,available,69.98,154.98,medium,low,10,namecheap,,,18/08/2026 23:08
 620b66f3-242e-4bd6-a46e-e1294f2b7a62,sorry.sex,available,69.98,154.98,high,low,5,namecheap,,,24/09/2026 06:24
 6c75935b-58a2-488e-a94f-8a0418ac4f2d,lunchtime.sex,available,154.98,,high,low,10,namecheap,,,
@@ -940,7 +962,7 @@ d7db6ff6-e2f5-4844-ab79-8b9fd86550d9,pugin.sex,available,69.98,154.98,medium,low
 f43ae720-8b8d-45b2-a20d-138e7f0a1e19,chem.sex,resell,,,high,low,4,"Spaceship, Inc.",21/04/2026 19:34,21/04/2027 19:34,26/09/2026 04:54
 80b10fd0-20cd-4231-be03-f3e95d9c8b9e,pochard.sex,available,69.98,154.98,medium,low,7,namecheap,,,21/09/2026 10:48
 a1570b79-7e44-46d0-bc09-6d6056ab2067,handsomely.sex,available,69.98,154.98,high,low,10,namecheap,,,14/09/2026 22:57
-6926de97-3757-4100-a518-c00e44b89a84,propranolol.sex,available,69.98,154.98,high,low,11,namecheap,,,20/09/2026 00:29
+6926de97-3757-4100-a518-c00e44b89a84,propranolol.sex,available,69.98,154.98,medium,low,11,namecheap,,,20/09/2026 00:29
 74456304-4e3d-4560-b212-96529994595f,notwithstanding.sex,available,154.98,,medium,low,15,namecheap,,,
 5d2397f4-5d43-4254-8817-3d8d082fd372,edgar.sex,available,69.98,154.98,high,low,5,namecheap,,,25/09/2026 22:32
 4a04d230-92d8-4ada-acb6-28b0cc474544,harper.sex,available,69.98,154.98,high,low,6,namecheap,,,25/09/2026 06:58
@@ -960,8 +982,8 @@ aec7d593-8683-48bd-9ef5-14da93c31f94,auricle.sex,available,69.98,154.98,medium,l
 de47fdaf-0961-48b5-90a9-0b5779779fce,greenness.sex,available,69.98,154.98,high,low,9,namecheap,,,20/08/2026 19:45
 44195359-9052-4f18-b8dc-de5e3ddb2c2a,preferences.sex,available,13.98,154.98,high,low,11,namecheap,,,
 140d53d3-6cc6-4176-96cc-529aa57b73bb,dishcloth.sex,available,69.98,154.98,medium,low,9,namecheap,,,24/09/2026 22:40
-353e9685-a686-4bcb-8253-06c7bac00ab9,locomotor.sex,available,69.98,154.98,high,low,9,namecheap,,,24/08/2026 08:50
-64c7fa0d-e465-4b4d-bfcd-7c7ed3a005a5,underestimate.sex,available,154.98,,high,low,13,namecheap,,,
+353e9685-a686-4bcb-8253-06c7bac00ab9,locomotor.sex,available,69.98,154.98,medium,low,9,namecheap,,,24/08/2026 08:50
+64c7fa0d-e465-4b4d-bfcd-7c7ed3a005a5,underestimate.sex,available,154.98,,medium,low,13,namecheap,,,
 e6feb73a-9efb-4bb0-9c5a-d425502b63b3,folk.sex,available,69.98,154.98,high,low,4,namecheap,,,24/09/2026 16:32
 b219ca9d-66ac-4d0a-a03c-d9bf0eca4883,twelve.sex,available,69.98,154.98,high,low,6,namecheap,,,21/09/2026 11:23
 59642b2b-1c52-4e75-b3c4-8e7e9d3afc58,windmills.sex,available,69.98,154.98,medium,low,9,namecheap,,,20/09/2026 13:55
@@ -977,25 +999,3 @@ f1339530-cced-4e63-afef-46c226882831,occult.sex,available,69.98,154.98,high,low,
 248e85da-c30f-4694-b047-ddfeaa975bef,deliberate.sex,available,69.98,154.98,high,low,10,namecheap,,,11/08/2026 13:56
 a7f33639-2393-4abc-9a7f-08b0976d8f2a,following.sex,available,69.98,154.98,high,low,9,namecheap,,,18/08/2026 10:22
 07b12bc2-8b02-4b2a-843a-81e4a68c6afb,tamanoir.sex,available,69.98,154.98,medium,low,8,namecheap,,,19/09/2026 12:16
-d21751d0-f920-442e-aa5b-1264f0a1b139,acoustic.sex,available,69.98,154.98,high,low,8,namecheap,,,
-97146e93-203e-4d9d-a753-4be0dc8832c4,handle.sex,available,69.98,154.98,high,low,6,namecheap,,,08/09/2026 13:26
-e3d3af43-f63b-46e6-bede-5136042840e8,dear.sex,resell,154.98,,high,low,4,"GoDaddy.com, LLC",10/06/2026 13:49,10/06/2027 13:49,26/09/2026 05:27
-57562333-19aa-4588-952c-bca0f9ca8b37,mindful.sex,available,69.98,154.98,high,low,7,namecheap,,,24/08/2026 23:36
-78860752-6d76-431a-8224-d4203f00b28f,dummy.sex,available,69.98,154.98,high,low,5,namecheap,,,24/09/2026 12:20
-2e9c9f40-13fc-40a2-8d99-cdf1a665611d,broadly.sex,available,154.98,,high,low,7,namecheap,,,
-5cd2543a-d93a-4806-b204-0aeb42a48e9a,rentable.sex,available,69.98,154.98,high,low,8,namecheap,,,09/09/2026 14:16
-c8e58c76-e9c1-4db1-97f7-89c85a16c2aa,cruciate.sex,available,69.98,154.98,medium,low,8,namecheap,,,13/08/2026 08:40
-d55e67ba-1a77-416a-b3c9-fab7bf0d6a74,abaca.sex,available,179.99,179.99,medium,low,5,name.com,,,16/09/2026 13:44
-d75ad9b8-a4b4-412d-ba5e-d8a1967bca9d,strings.sex,available,69.98,154.98,high,low,7,namecheap,,,27/09/2026 05:33
-a8629088-ff56-4460-83a3-dc780af36df3,hani.sex,available,69.98,154.98,high,low,4,namecheap,,,17/09/2026 23:54
-8f1dde36-8609-46f3-932a-f6e36f901cef,equid.sex,available,69.98,154.98,medium,low,5,namecheap,,,17/08/2026 11:47
-025f70a3-b92f-4401-b5f0-91e8e341a960,mechanical.sex,available,69.98,154.98,high,low,10,namecheap,,,25/09/2026 18:43
-340a5595-f381-4076-9de2-cd9fc6793c2b,automatic.sex,available,69.98,154.98,high,low,9,namecheap,,,22/09/2026 14:02
-67bc0e3b-5fac-47d6-8b59-aaf17a460e3d,impala.sex,available,69.98,154.98,medium,low,6,namecheap,,,17/09/2026 12:44
-e90b860b-d54e-4c18-bcaf-2af07c454859,dead.sex,available,69.98,154.98,high,low,4,namecheap,,,24/09/2026 04:40
-cea6f5ef-a118-48af-ac86-66d797163e0b,arginine.sex,available,69.98,154.98,medium,low,8,namecheap,,,20/09/2026 04:24
-e68a034e-fc06-4424-8b94-f583d38e25a6,spidery.sex,available,69.98,154.98,medium,low,7,namecheap,,,06/08/2026 11:46
-b10b9166-0d6c-4fae-bcb2-104ecd836a15,pacifist.sex,available,69.98,154.98,high,low,8,namecheap,,,04/09/2026 22:35
-4e4b3248-d7c7-4c98-b29c-a413a0df4658,maroon.sex,available,69.98,154.98,high,low,6,namecheap,,,11/08/2026 06:33
-efcc000a-6e52-48b0-8074-36f6726b2a3a,keenly.sex,available,69.98,154.98,high,low,6,namecheap,,,15/09/2026 10:20
-d58f3e3b-8cbf-4b3a-90f9-a4b72835b15e,interlaced.sex,available,69.98,154.98,medium,low,10,namecheap,,,22/08/2026 08:04
