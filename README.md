@@ -1,10 +1,10 @@
-# Available .SEX One-Word Domains (28,790)
+# Available .SEX One-Word Domains (30,240)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C790%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C240%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sex one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,790 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,240 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,790 domains · **Median ask:** $90.66 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 30,240 domains · **Median ask:** $77.15 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/sex`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| desk.sex       | available | $69.98    | $154.98       | high           | low    | 4      | namecheap        |
-| support.sex    | available | $69.98    | $154.98       | high           | medium | 7      | namecheap        |
-| eye.sex        | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| once.sex       | available | $69.98    | $154.98       | high           | low    | 4      | namecheap        |
-| striking.sex   | available | $69.98    | $154.98       | high           | low    | 8      | namecheap        |
-| university.sex | premium   | $272.80   | $272.80       | high           | low    | 10     | dynadot          |
-| born.sex       | available | $69.98    | $154.98       | high           | low    | 4      | namecheap        |
-| cockpit.sex    | available | $51.95    | $98.53        | high           | low    | 7      | spaceship        |
-| vacuum.sex     | available | $95.20    | $95.20        | high           | low    | 6      | cloudflare       |
-| launch.sex     | available | $101.87   | $101.87       | high           | medium | 6      | dynadot          |
-| taipei.sex     | available | $51.95    | $98.53        | high           | low    | 6      | spaceship        |
-| mexican.sex    | available | $69.98    | $154.98       | high           | low    | 7      | namecheap        |
-| testimony.sex  | available | $69.98    | $154.98       | high           | low    | 9      | namecheap        |
 | csr.sex        | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
 | stallion.sex   | resell    | $154.98   | —             | high           | low    | 8      | GoDaddy.com, LLC |
 | raw.sex        | premium   | $775      | $775          | high           | low    | 3      | name.com         |
-| eos.sex        | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| eir.sex        | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
 | hard.sex       | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.   |
 | breasts.sex    | premium   | $310      | —             | medium         | low    | 7      | name.com         |
+| eos.sex        | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| town.sex       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| newsstand.sex  | premium   | $322.40   | $322.40       | medium         | low    | 10     | namecheap        |
 | est.sex        | available | $99.99    | $189.99       | high           | low    | 3      | godaddy          |
+| horny.sex      | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.   |
+| university.sex | premium   | $256.88   | $256.88       | high           | low    | 10     | spaceship        |
+| eye.sex        | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
+| sweetie.sex    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| ooo.sex        | premium   | —         | —             | high           | medium | 3      | —                |
+| gsa.sex        | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| siam.sex       | premium   | —         | —             | high           | low    | 4      | —                |
+| gum.sex        | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
+| hip.sex        | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
+| irt.sex        | available | $95.20    | $95.20        | low            | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,790 live domains                        |
+| 1,000-row public sample | 30,240 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEX One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
